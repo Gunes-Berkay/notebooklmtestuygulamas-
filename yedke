@@ -357,11 +357,39 @@ def index():
     function setOptionText(key, text){
         const el = optEls[key];
         el.textContent = text;
+        adjustFontToFit(el);
     }
 
     // adjust font-size so text fits comfortably in element (allow multiple lines)
     // adjust font-size so text fits comfortably in element (allow multiple lines)
-    
+    function adjustFontToFit(el){
+        // daha büyük bir başlangıç değeri kullan
+        let base;
+        if(window.innerWidth >= 1200){
+            base = 34;
+        } else if(window.innerWidth >= 900){
+            base = 30;
+        } else if(window.innerWidth >= 600){
+            base = 26;
+        } else {
+            base = 20;
+        }
+
+        // clamp geniş sınırlar
+        base = Math.min(48, Math.max(16, base));
+        el.style.fontSize = base + 'px';
+        el.style.lineHeight = '1.15';
+
+        // eğer taşma varsa yavaşça düşür (daha fazla iterasyon izni)
+        const pad = 12;
+        for(let i=0;i<50;i++){
+            // scrollHeight kontrolü: içerik kutudan taşmıyorsa kır
+            if(el.scrollHeight <= el.clientHeight - pad) break;
+            let cur = parseInt(window.getComputedStyle(el).fontSize);
+            if(cur <= 12) break;
+            el.style.fontSize = (cur - 1) + 'px';
+        }
+    }
 
 
     // load next question
@@ -419,6 +447,7 @@ def index():
     for(const k of Object.keys(optEls)){
         optEls[k].addEventListener('click', onOptionClicked);
         // ensure they fit on resize
+        window.addEventListener('resize', ()=>adjustFontToFit(optEls[k]));
     }
 
     nextBtn.addEventListener('click', ()=>{
@@ -431,7 +460,9 @@ def index():
         const qbase = Math.max(18, Math.round(window.innerWidth/70));
         questionEl.style.fontSize = Math.min(36, Math.max(16, qbase)) + 'px';
         // adjust options
-        
+        for(const k of Object.keys(optEls)){
+            adjustFontToFit(optEls[k]);
+        }
     });
 
 })();
