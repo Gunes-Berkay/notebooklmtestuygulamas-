@@ -9,6 +9,8 @@ Soruları hazırlamak için notebooklm kullanıldı, prompt şu şekilde :
 
  notebooklm çıktıyı hazırladıktan sonra kopyalayın ardından tests klasörü içerinde bir txt dosyası oluşturun ve o dosyanın içerisine kopyalanan içeriği atın. uygulamayı açtığınız zaman ilgili txt'yi sağ üstten seçtikten sonra "soruları getir" butonuna tıklayın ve ardından test başlıcaktır.
 
+quiz.py ile çalıştırın.
+
 
 
 ---
