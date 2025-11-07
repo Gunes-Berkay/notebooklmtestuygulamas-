@@ -1,0 +1,457 @@
+--------------------------------------------------------------------------------
+Kaynak 1: Excerpts from "1_Introduction.pdf" (25 Questions)
+(1_Introduction.pdf)(What is the difference between software engineering and computer science, according to the source?)(A) (Computer science focuses on theory and fundamentals, while software engineering is concerned with the practicalities of developing and delivering useful software.)(B) (Software engineering is concerned exclusively with the technical process of development, while computer science focuses on management.)(C) (Computer science deals with all aspects of software production, while software engineering focuses solely on algorithms.)(D) (There is no difference; the terms are interchangeable in professional practice.)(A)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What are the four fundamental software engineering activities listed in the source?)(A) (Planning, Execution, Review, and Delivery)(B) (Software specification, development, validation, and evolution)(C) (Hardware integration, software configuration, system monitoring, and archiving)(D) (Design, Programming, Testing, and Documentation)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(A hospital needs a patient information system that must be highly reliable and secure, ensuring patient records are not damaged and unauthorized users cannot access them. Which essential software attribute is this scenario prioritizing?)(A) (Dependability and security)(B) (Efficiency)(C) (Maintainability)(D) (Acceptability)(A)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What is the estimated percentage of software costs dedicated to the development phase?)(A) (20%)(B) (40%)(C) (60%)(D) (80%)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Which characteristic describes software that must be understandable, usable, and compatible with other systems that users employ?)(A) (Efficiency)(B) (Maintainability)(C) (Acceptability)(D) (Dependability)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What is the term for stand-alone application systems that execute on a local computer, such as a PC, and include all necessary functionality without needing network connection?)(A) (Interactive transaction-based applications)(B) (Stand-alone applications)(C) (Embedded control systems)(D) (Systems of systems)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Who owns the specification for a customized software product, and who makes the final decisions regarding required changes?)(A) (The software developer owns the specification and makes change decisions.)(B) (The customer owns the specification and makes change decisions.)(C) (A third-party regulator owns the specification.)(D) (Neither party owns the specification, as formal specifications are minimized.)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Which general issue affecting software refers to the need for systems to operate as distributed systems across networks that include different types of computer and mobile devices?)(A) (Scale)(B) (Security and trust)(C) (Heterogeneity)(D) (Business and social change)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(The source describes four case studies. Which case study is explicitly classified as a safety-critical system where low blood sugars can lead to serious health consequences?)(A) (Mentcare: A patient information system for mental health care)(B) (iLearn: A digital learning environment)(C) (A personal insulin pump)(D) (A wilderness weather station)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(A company develops games using prototypes and also builds safety-critical control systems requiring complete and analyzable specifications. What fundamental principle of software engineering is this company adhering to?)(A) (All software must prioritize reuse over new development.)(B) (All systems must be built using the Waterfall model.)(C) (Software engineering should always focus on minimizing development costs.)(D) (Different techniques are appropriate for different types of systems.)(D)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(According to the ACM/IEEE Code of Ethics, which principle requires software engineers to participate in lifelong learning regarding the practice of their profession?)(A) (PROFESSION)(B) (SELF)(C) (JUDGMENT)(D) (PUBLIC)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What is the definition of "Software" according to the frequently asked questions section?)(A) (Only the executable binary files.)(B) (Computer programs and associated documentation.)(C) (Hardware components and their interconnections.)(D) (The project management plans and budget reports.)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What ethical responsibility requires engineers to ensure that the intellectual property of employers and clients is protected, being aware of local laws governing patents and copyright?)(A) (Confidentiality)(B) (Competence)(C) (Computer misuse)(D) (Intellectual property rights)(D)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What is the central concept underlying the complexity challenge of Scale in modern software engineering?)(A) (The difficulty of obtaining adequate funding for all projects.)(B) (The massive range in system size, from small embedded devices to global cloud-based systems.)(C) (The universal need for all systems to use the same development language.)(D) (The conflict between usability and maintainability.)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Which of the four fundamental activities involves modifying the software to reflect changing customer and market requirements after it has gone into use?)(A) (Software specification)(B) (Software development)(C) (Software validation)(D) (Software evolution)(D)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Which type of application system is numerically likely the most common, as they control and manage hardware devices?)(A) (Interactive transaction-based applications)(B) (Batch processing systems)(C) (Embedded control systems)(D) (Data collection systems)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Why is Maintainability considered a critical attribute of good software?)(A) (It ensures that malicious users cannot damage the system.)(B) (It guarantees that the system uses minimal processor cycles.)(C) (Software change is an inevitable requirement due to a changing business environment.)(D) (It relates solely to the initial rapid delivery of the software.)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(The Mentcare system supports mental health care, where privacy is essential. This dictates that patient information is never disclosed to anyone apart from authorized medical staff and the patient. Which essential software attribute does this directly fall under?)(A) (Efficiency)(B) (Dependability and security)(C) (Acceptability)(D) (Maintainability)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(The Web has led to important advances in programming languages and software reuse because it allows for the development of what kind of distributed system?)(A) (Stand-alone applications requiring no network connection.)(B) (Highly centralized database systems.)(C) (Highly distributed service-based systems, offering software services.)(D) (Systems focusing exclusively on batch processing.)(C)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(A software engineer is developing a financial trading platform that must respond to market changes within milliseconds and utilize system memory efficiently. Which essential attribute of good software is the developer prioritizing?)(A) (Maintainability)(B) (Efficiency)(C) (Acceptability)(D) (Dependability)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Which ethical dilemma, according to the source, could arise if an employer prioritizes schedule over safety?)(A) (A disagreement regarding the optimal programming language to use for a non-critical system.)(B) (An employer releasing a safety-critical system without finishing the testing of the system.)(C) (Choosing between two architectural patterns for a new web service.)(D) (A professional deciding not to participate in lifelong learning.)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(What is the scope of System engineering, which encompasses software engineering?)(A) (Concerned with all aspects of computer-based systems development, including hardware, software, policy, and process engineering.)(B) (Concerned exclusively with software development and deployment.)(C) (Concerned only with the theoretical foundations of algorithms.)(D) (Concerned solely with the financial constraints of a project.)(A)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(The source notes that for most systems, the majority of costs are the costs of changing the software after it has gone into use. What is the long-term benefit of using systematic software engineering methods derived from this fact?)(A) (It reduces the initial development costs to zero.)(B) (It makes long-term use cheaper by managing the inevitable costs of change effectively.)(C) (It guarantees the system will never need maintenance.)(D) (It ensures the software is always developed using agile methods.)(B)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(If a system is designed to collect data from sensors in a remote environment and must include functionality to monitor instruments, report faults, and manage system power, what type of system is this primarily an example of?)(A) (Interactive transaction-based application)(B) (Entertainment system)(C) (System for modeling and simulation)(D) (Data collection system)(D)
+
+--------------------------------------------------------------------------------
+(1_Introduction.pdf)(Which ethical principle requires software engineers to maintain integrity and independence in their professional judgment?)(A) (PUBLIC)(B) (CLIENT AND EMPLOYER)(C) (JUDGMENT)(D) (MANAGEMENT)(C)
+
+--------------------------------------------------------------------------------
+Kaynak 2: Excerpts from "2_SW Processes.pdf" (25 Questions)
+(2_SW Processes.pdf)(What is a Software Process Model (sometimes called a Software Development Life Cycle or SDLC model) defined as?)(A) (A set of technical regulations governing software contracts.)(B) (A simplified representation of a software process.)(C) (A detailed description of all required system documentation.)(D) (A collection of reusable software components.)(B)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(Which of the following descriptions accurately defines a Plan-driven process?)(A) (Specification, development, and validation are continuously interleaved.)(B) (Planning is incremental, and it is easy to change the process to reflect changing customer requirements.)(C) (All process activities are planned in advance, and progress is measured against this plan.)(D) (The system is assembled exclusively from existing configurable components.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What is the main drawback of the Waterfall Model?)(A) (It is only suitable for small, informal projects.)(B) (It relies too heavily on constant informal team communication.)(C) (The difficulty of accommodating change after the process is underway.)(D) (It requires system increments to be identified in advance.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(In which scenario would the Waterfall Model be considered the most appropriate process model?)(A) (Developing a competitive, generic web application where requirements change daily.)(B) (Developing a system with vague or poorly understood requirements.)(C) (Developing a critical system where requirements are well-understood and changes are expected to be limited.)(D) (Developing a system using a small, co-located agile team.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What is the primary goal of Verification and Validation (V & V)?)(A) (To develop a high-fidelity prototype of the user interface.)(B) (To reduce the documentation overheads of the process.)(C) (To show that a system conforms to its specification and meets the requirements of the system customer.)(D) (To strictly eliminate the costs associated with software evolution.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(In the context of software process descriptions, what defines the Roles?)(A) (Statements that are true before and after a process activity.)(B) (The documents produced during the validation stage.)(C) (The outcomes of a process activity.)(D) (They reflect the responsibilities of the people involved in the process.)(D)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What is the definition of Architectural design during the design activities stage?)(A) (Translating the software structure into an executable program.)(B) (Identifying the overall structure of the system, the principal components, and their relationships.)(C) (Defining the interfaces between system components.)(D) (Designing the system data structures and how they are represented in a database.)(B)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What type of testing, done during system development, focuses on component interactions and the emergent system properties?)(A) (Unit testing)(B) (Component testing)(C) (System testing)(D) (Customer acceptance testing)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(A software development team working on a new system is focusing on reducing the risk of requirements and design errors by building a quick version of the system to explore design options. This approach is known as System Prototyping. Which strategy for coping with change does prototyping primarily support?)(A) (Change tolerance)(B) (Change avoidance)(C) (Change anticipation)(D) (Change maintenance)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(Why should prototypes generally be discarded after development, rather than evolving them into the production system?)(A) (The prototypes are often impossible to tune to meet functional requirements.)(B) (The development team becomes too attached to the initial design.)(C) (The prototype structure is usually degraded through rapid change and it may not meet quality standards.)(D) (Prototypes cannot be used for user interface development.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(Which development model is based on software reuse where systems are integrated from existing components or application systems?)(A) (Waterfall Model)(B) (Incremental development)(C) (Plan-driven model)(D) (Integration and configuration)(D)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(If a company decides to adopt a reuse-oriented software engineering approach, what inherent disadvantage must they accept regarding system requirements?)(A) (The risk of system failure increases significantly.)(B) (The delivery and deployment time will be significantly longer.)(C) (Loss of control over the evolution of reused system elements.)(D) (The cost of maintenance will increase because the original source code is unavailable.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(In the SEI Capability Maturity Model, which maturity level focuses on organizational standardization and deployment of processes, where each project adapts from a defined set of organizational processes?)(A) (Initial)(B) (Managed)(C) (Defined)(D) (Optimizing)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What activity in the process improvement cycle involves measuring attributes (like time taken or resources needed) to establish a baseline for later evaluation?)(A) (Process analysis)(B) (Process change)(C) (Process measurement)(D) (Process maturity definition)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(A manager expresses concern that the system structure is degrading due to continuous additions of new increments, making further changes difficult and costly. This is a known problem with which development approach?)(A) (Waterfall Model)(B) (Integration and Configuration)(C) (Incremental development)(D) (Process maturity approach)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What are the two major approaches to software process improvement mentioned in the source?)(A) (The process maturity approach and the agile approach.)(B) (The Plan-driven approach and the Waterfall approach.)(C) (The Prototyping approach and the Incremental approach.)(D) (The Verification approach and the Validation approach.)(A)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What distinguishes Component testing from Unit testing?)(A) (Unit testing tests interaction between units, while Component testing tests individual functions.)(B) (Component testing focuses on testing individual units in isolation, while Unit testing focuses on component interfaces.)(C) (Unit testing tests individual functions or object methods, while Component testing tests integrated composite components, focusing on interfaces.)(D) (Unit testing occurs after system deployment, while Component testing occurs before system deployment.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(In the context of the requirements engineering process, which activity involves checking the requirements for realism, consistency, and completeness?)(A) (Requirements validation)(B) (Requirements elicitation and analysis)(C) (Requirements specification)(D) (Requirements refinement)(A)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(When using an agile process model, how does the nature of design outputs typically differ from a plan-driven process for non-critical systems?)(A) (Detailed design documents must always be produced and externally verified.)(B) (The design outputs are likely separate specification documents adhering to strict standards.)(C) (Design outputs may not be separate specification documents but may be represented in the code of the program.)(D) (The design process relies solely on the V-model phases.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(If a project uses incremental delivery, what challenge arises when the new system is intended to replace an existing one?)(A) (It is difficult to identify common, basic facilities needed by all increments upfront, as requirements are not fully defined in detail until implementation.)(B) (Customers cannot use early increments as prototypes.)(C) (The highest priority system services receive the least testing.)(D) (The requirements for later increments cannot evolve after the first increment is released.)(A)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(The activity of finding program faults and correcting these faults is known as:)(A) (Testing)(B) (Validation)(C) (Evolution)(D) (Debugging)(D)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What are the characteristics of the three types of reusable software mentioned in the Integration and Configuration model?)(A) (Stand-alone applications, formal design documents, and UML models.)(B) (Web services, design patterns, and programming language libraries.)(C) (Stand-alone application systems, collections of objects or components, and Web services.)(D) (Only detailed data models and database schemas.)(C)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(Which organizational characteristic is associated with the Optimizing level (Level 5) of the SEI Capability Maturity Model?)(A) (Processes are only satisfied; work scope is communicated.)(B) (Statistical and quantitative methods control subprocesses.)(C) (Organizational policies define when each process should be used.)(D) (Process and product measurements are used to drive process improvement.)(D)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(What is the term for the final stage of testing, often performed by the system customer before the system is accepted for operational use, which may reveal errors and omissions in the requirements definition for custom software?)(A) (Unit testing)(B) (System testing)(C) (Component testing)(D) (Customer (acceptance) testing)(D)
+
+--------------------------------------------------------------------------------
+(2_SW Processes.pdf)(When a plan-driven approach is used, where does the motivation and source material for the development of test plans typically originate?)(A) (From user stories developed during sprint cycles.)(B) (From prototypes and customer demonstrations.)(C) (From the system specification and design, used by an independent testing team.)(D) (From automated metrics collection during process measurement.)(C)
+
+--------------------------------------------------------------------------------
+Kaynak 3: Excerpts from "3_Agile SW Dev.pdf" (25 Questions)
+(3_Agile SW Dev.pdf)(According to the Agile Manifesto, what is valued more?)(A) (Individuals and interactions over processes and tools)(B) (Comprehensive documentation over working software)(C) (Following a strict plan over responding to change)(D) (Contract negotiation over customer collaboration)(A)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(In Agile development, how are the activities of specification, design, and implementation handled?)(A) (They are separated into distinct, sequential phases.)(B) (They are inter-leaved, with minimal design documentation.)(C) (They are carried out exclusively by the ScrumMaster.)(D) (They are planned exhaustively in advance.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(In Extreme Programming (XP), how are requirements typically expressed?)(A) (As detailed UML diagrams.)(B) (As scenarios, called user stories, recorded on cards.)(C) (As formal requirements specification documents.)(D) (As product backlog items prioritized exclusively by the ScrumMaster.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the fixed-length development iteration, usually 2-4 weeks long, used in Scrum?)(A) (Refactoring)(B) (Product Backlog)(C) (Sprint)(D) (User Story)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the XP practice known as Refactoring?)(A) (Writing unit tests before writing the corresponding code.)(B) (Integrating new code only once a month.)(C) (Constantly improving the code structure and readability to make changes easier.)(D) (Working in pairs at the same computer.)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the main benefit of Test-first Development (TDD)?)(A) (It minimizes the need for an automated testing environment.)(B) (It restricts testing to only non-functional requirements.)(C) (It ensures that all code is written before any tests.)(D) (It clarifies the requirements to be implemented and reduces interface misunderstandings.)(D)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(A software team is developing a new mobile application for a competitive market where requirements change rapidly. They need to reduce delivery time significantly. Which approach is most appropriate?)(A) (Plan-driven development with emphasis on comprehensive documentation.)(B) (A process model based solely on formal contract negotiation.)(C) (Agile development methods aimed at radically reducing delivery time.)(D) (The Waterfall model due to its strict partitioning into stages.)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(Which core principle of Agile methods suggests that developers should be recognized for their skills and exploited, being left to develop their own ways of working without prescriptive processes?)(A) (Customer involvement)(B) (People not process)(C) (Incremental delivery)(D) (Embrace change)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(In Scrum, what is the list of 'to do' items (features, requirements, improvements) that the team must tackle, prioritized by the Product Owner?)(A) (Sprint Backlog)(B) (Scrum Meeting Notes)(C) (Product Backlog)(D) (Velocity Estimate)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the term for an estimate of how much product backlog effort a team can cover in a single sprint?)(A) (Refactoring)(B) (Sprint)(C) (Scrum)(D) (Velocity)(D)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(The daily meeting in Scrum, intended to review progress, share information, and prioritize work for the day, is known as the:)(A) (Sprint Planning Meeting)(B) (Scrum)(C) (Product Review)(D) (Customer Collaboration Session)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the function of the ScrumMaster?)(A) (To function as the traditional project manager, dictating tasks and schedules.)(B) (To ensure the Scrum process is followed, guiding the team, and shielding them from outside interference.)(C) (To identify product features and prioritize them for development.)(D) (To write all the tests before the developers write the code.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(Why is the high availability of an On-site customer essential to the XP process?)(A) (The customer performs all integration and system testing.)(B) (The customer is primarily responsible for monitoring team velocity.)(C) (The customer is a member of the development team responsible for bringing and prioritizing system requirements (user stories).)(D) (The customer is needed full-time to generate all the system architecture documentation.)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the principal problem associated with using user stories for requirements specification?)(A) (They are too formal and restrictive.)(B) (They are always too complex for implementation tasks.)(C) (They cannot be broken down into development tasks.)(D) (Completeness, and difficulty judging if a single story gives a true picture of an activity.)(D)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(A developer working in an XP environment discovers duplicate code in a large function and immediately breaks out the duplicated logic into a new method to simplify the original function. Which XP practice is being demonstrated?)(A) (Test-first development)(B) (Continuous integration)(C) (Refactoring)(D) (Incremental planning)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the term for the requirement that large systems must be developed by multiple teams, often working in different locations and time zones, which creates difficulties for agility?)(A) (Scaling up)(B) (Scaling out)(C) (Sustainable pace)(D) (Collective ownership)(A)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(Which statement accurately reflects the status of the Extreme Programming (XP) method today?)(A) (XP is the universal standard for all software development.)(B) (XP practices have been entirely replaced by the Scrum framework.)(C) (XP, as originally defined, is not widely used, but agile development commonly uses key practices from XP.)(D) (XP is only suitable for plan-driven development.)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(When deciding on methodology, what factor is relevant regarding system size?)(A) (Agile methods are required for all systems exceeding 100,000 lines of code.)(B) (Agile methods are most effective when the system can be developed with a small co-located team.)(C) (System size has no bearing on the choice of development methodology.)(D) (Plan-driven methods are only appropriate for small systems.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(Why is maintaining simplicity (Maintain Simplicity) often difficult under pressure from delivery schedules in agile projects?)(A) (Simplicity conflicts with the requirement for incremental delivery.)(B) (Team members may not have time to carry out desirable system simplifications (refactoring).)(C) (Simplicity requires excessive documentation.)(D) (Team members tend to refactor excessively, slowing down progress.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What key knowledge-sharing benefit is derived from the XP practice of Pair programming, where pairs are created dynamically?)(A) (It strictly enforces the separation of programming and testing roles.)(B) (It eliminates the need for any form of automated testing.)(C) (It reduces the overall risks to a project when team members leave.)(D) (It increases the overall effort required, but guarantees perfect code quality.)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(In large companies where agile methods are scaled up, they often conflict with the organizational culture of detailed documentation and formal contract definition. How do agile methods typically handle contractual issues due to the lack of a definitive requirements statement?)(A) (Agile methods rely on contracts detailing all requirements and penalties upfront.)(B) (Agile methods rely on contracts where the customer pays for the time required for system development, rather than a specific set of requirements.)(C) (Agile methods mandate pre-signed contracts detailing all maintenance costs.)(D) (All agile projects must be developed using open-source licensing.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What collaborative role is established in multi-team Scrum development to ensure the overall system architecture is designed and evolved coherently across all teams?)(A) (The individual ScrumMasters.)(B) (The overall Product Owner.)(C) (A daily "Scrum of Scrums.")(D) (Product architects chosen by each team who collaborate.)(D)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What does the term 'Scaling out’ agile methods refer to?)(A) (Developing large software systems that cannot be developed by a small team.)(B) (Introducing agile methods across a large organization with many years of software development experience.)(C) (Reducing process overheads by minimizing documentation.)(D) (Using agile methods only for small, co-located teams.)(B)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(What is the definition of a Potentially shippable product increment in Scrum?)(A) (The complete set of requirements gathered for the entire project.)(B) (The fixed length of a sprint, usually 2-4 weeks long.)(C) (The software increment that is delivered from a sprint and is in a finished state requiring no further work.)(D) (An estimate of how much product backlog effort a team can cover in a single sprint.)(C)
+
+--------------------------------------------------------------------------------
+(3_Agile SW Dev.pdf)(Why is testing central to XP, leading to the practice of running all tests for every build?)(A) (To generate unnecessary documentation.)(B) (To ensure the build is accepted only if all unit tests run successfully.)(C) (To avoid continuous integration.)(D) (To ensure the team maintains a high skill level.)(B)
+
+--------------------------------------------------------------------------------
+Kaynak 4: Excerpts from "4_Architectural design.pdf" (25 Questions)
+(4_Architectural design.pdf)(Architectural design is defined as the critical link between design and which other software engineering activity?)(A) (Requirements engineering)(B) (Implementation)(C) (Software validation)(D) (System testing)(A)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(What is an Architectural Pattern?)(A) (A detailed set of instructions for code implementation.)(B) (A description of a system organization, such as a client–server or layered structure, that can be instantiated in different ways.)(C) (A specific piece of reusable code.)(D) (A static model of object class relationships.)(B)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(Which architectural view shows how the system hardware is organized and how software components are distributed across the processors in the system?)(A) (Logical view)(B) (Process view)(C) (Development view)(D) (Physical view)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(In the Model-View-Controller (MVC) Pattern, what is the responsibility of the Controller component?)(A) (Managing the system data and associated operations.)(B) (Defining and managing how the data is presented to the user.)(C) (Managing user interaction (e.g., key presses, mouse clicks, etc.) and passing these interactions to the View and the Model.)(D) (Archiving historical data.)(C)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(What is the main drawback of the Repository Architecture pattern?)(A) (Components must know the details of all other components.)(B) (It makes data management inconsistent across all components.)(C) (Inefficiencies may arise from organizing all communication through the central repository.)(D) (The repository is a single point of failure, affecting the whole system.)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(When designing an architecture to maximize system Security, what is the recommended practice regarding the structure and asset placement?)(A) (Use a layered architecture with critical assets placed in the inner, most protected layers.)(B) (Use a client-server model to ensure maximum distribution.)(C) (Localize critical operations and minimize communications regardless of layering.)(D) (Use fine-grain, replaceable components.)(A)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(Which architectural view shows the key abstractions in the system as objects or object classes?)(A) (Physical view)(B) (Logical view)(C) (Process view)(D) (Development view)(B)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(What is the most important advantage of the Client–Server model?)(A) (It minimizes network traffic by centralizing all processing.)(B) (It ensures that clients know the identity of all accessing servers.)(C) (It is inherently a distributed architecture, allowing servers to be distributed across a network.)(D) (It forces all components to be implemented on a single computer.)(C)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(The Layered Architecture pattern is advantageous because it allows for the replacement of entire layers, provided that what specific element is maintained?)(A) (The database schema)(B) (The internal code of the component)(C) (The component performance)(D) (The interface provided by the layer)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(What is the definition of a Generic Application Architecture?)(A) (A detailed document mandating the use of the Waterfall model for a specific domain.)(B) (A specific piece of reusable code used in all applications.)(C) (A generic framework focusing exclusively on non-functional requirements.)(D) (An architecture for a type of software system that may be configured and adapted to meet specific requirements.)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(In the context of Transaction Processing Systems, what defines a transaction from a user perspective?)(A) (A single, isolated computational step.)(B) (Any coherent sequence of operations that satisfies a goal.)(C) (The time required for a database backup.)(D) (The system’s hardware configuration.)(B)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(The Pipe and Filter Architecture is best suited for which two primary types of systems?)(A) (Interactive systems and e-commerce systems.)(B) (Web-based information systems and compilers.)(C) (Film libraries and mental health patient management systems.)(D) (Batch processing systems and embedded systems.)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(If block diagrams are the most frequently used method for documenting software architectures, what is the primary criticism leveled against them?)(A) (They are difficult for managers to understand.)(B) (They lack semantics, failing to show the types of relationships or visible properties of entities.)(C) (They are too cluttered with detail.)(D) (They are exclusively suitable for architecture in the small.)(B)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(A web-based e-commerce system is organized using a multi-tier client-server architecture. Which server is responsible for implementing application-specific logic and managing information storage and retrieval requests?)(A) (The web browser interface.)(B) (The database server.)(C) (The application server.)(D) (The user communication layer.)(C)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(What is Architecture in the large concerned with?)(A) (The design of complex enterprise systems that include other systems, programs, and components.)(B) (The architecture of individual programs and how they are decomposed into components.)(C) (The distribution of software components across a network.)(D) (The principles governing system evolution.)(A)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(What is the main purpose of a Language Processing System?)(A) (To exclusively manage distributed databases.)(B) (To translate texts from one language into another and to carry out the instructions specified in the input language.)(C) (To handle high-volume interactive transactions.)(D) (To model physical processes and simulations.)(B)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(Which component of a compiler is responsible for checking the syntax of the language being translated?)(A) (A lexical analyzer)(B) (A semantic analyzer)(C) (A code generator)(D) (A syntax analyzer)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(If an application needs to be developed to maximize Maintainability, which architectural characteristic should be prioritized?)(A) (Localizing critical operations.)(B) (Using large, coarse-grain components.)(C) (Using fine-grain, replaceable components.)(D) (Including redundant components for fault tolerance.)(C)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(Given that refactoring the system architecture is usually expensive, what action is generally accepted as an essential early stage in agile processes, despite the push for minimized documentation?)(A) (Designing an overall systems architecture.)(B) (Skipping architectural design entirely.)(C) (Delaying all design decisions until the final implementation phase.)(D) (Developing prototypes for every component.)(A)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(In a client-server architecture, what is the nature of the communication protocol used by clients to access services?)(A) (Shared memory interfaces.)(B) (Remote procedure calls using a request–reply protocol (such as http).)(C) (Direct database access.)(D) (A functional transformation pipeline.)(B)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(The Pipe and Filter pattern suffers from what specific disadvantage regarding data transfer between transformations?)(A) (It is inherently a centralized architecture.)(B) (It requires complex management of shared memory.)(C) (The format for data transfer has to be agreed upon, increasing system overhead due to parsing/unparsing.)(D) (It is highly suitable for interactive systems, confusing developers.)(C)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(The Mentcare system uses a centralized database accessible to all subsystems, where components do not interact directly with each other but only through this central data store. Which architectural pattern is exemplified by this organization?)(A) (Client-Server)(B) (Layered Architecture)(C) (Repository)(D) (Model-View-Controller)(C)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(Which component in the Language Processing architecture is responsible for taking input language tokens and converting them to an internal form?)(A) (A lexical analyzer)(B) (A symbol table)(C) (A code generator)(D) (A syntax analyzer)(A)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(Which view of the system architecture shows how the system is composed of interacting processes at runtime?)(A) (Development view)(B) (Logical view)(C) (Physical view)(D) (Process view)(D)
+
+--------------------------------------------------------------------------------
+(4_Architectural design.pdf)(The Model-View-Controller (MVC) pattern is used when there are multiple ways to view and interact with data. What specific advantage does it offer regarding data integrity?)(A) (It guarantees high performance due to minimal layering.)(B) (It allows the data to change independently of its representation and vice versa.)(C) (It minimizes the code complexity even for simple interactions.)(D) (It eliminates the need for any data management.)(B)
+
+--------------------------------------------------------------------------------
+Kaynak 5: Excerpts from "5_Implementation.pdf" (25 Questions)
+(5_Implementation.pdf)(What is the process of realizing the design as a program, which is often inter-leaved with software design activities?)(A) (Configuration management)(B) (Implementation)(C) (Software validation)(D) (Specification)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(In object-oriented design, what do objects include?)(A) (Only data.)(B) (Both data and operations to manipulate that data.)(C) (Only external interaction specifications.)(D) (Only operations (methods).)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Which type of design model describes the dynamic structure of the system and the expected runtime interactions between the objects, such as the sequence of service requests?)(A) (Structural (static) models)(B) (Behavioral (dynamic) models)(C) (Generalization models)(D) (Subsystem models)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is a Design Pattern?)(A) (A specific piece of executable code for reuse.)(B) (A strictly documented process for implementing an IDE.)(C) (A legal document defining intellectual property rights.)(D) (A way of reusing abstract knowledge about a problem and the essence of its solution.)(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is the primary purpose of the Observer Pattern?)(A) (Separating the display of object state from the object itself, especially when multiple displays are needed.)(B) (Tidying up the interfaces to a number of related objects.)(C) (Providing a standard way of accessing elements in a collection.)(D) (Allowing the extension of class functionality at run-time.)(A)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(For large systems developed by different groups, why are design models considered an important communication mechanism?)(A) (They automatically generate all the executable code.)(B) (They provide a shared, documented understanding of the system structure and relationships.)(C) (They guarantee the system will meet all non-functional requirements.)(D) (They are required only for unit testing purposes.)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Which modeling approach for object class identification involves basing the identification on actual, tangible things in the application domain, such as a "Ground thermometer" or "Barometer"?)(A) (Using a grammatical approach.)(B) (Using a behavioral approach.)(C) (Using a scenario-based analysis.)(D) (Basing the identification on tangible things.)(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Which level of software reuse involves using knowledge of successful design abstractions in the design of new software, without reusing the software code directly?)(A) (The abstraction level)(B) (The object level)(C) (The component level)(D) (The system level)(A)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is the term for the general process of managing a changing software system, aimed at supporting system integration so developers can track versions, changes, and compile systems in a controlled way?)(A) (System Integration)(B) (Host-Target Development)(C) (Open Source Development)(D) (Configuration management)(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Which configuration management activity involves providing support to help developers define what versions of components are used to create each version of a system?)(A) (Version management)(B) (Problem tracking)(C) (System integration)(D) (Release management)(C)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is Host-Target Development?)(A) (Developing software on a virtual machine.)(B) (Developing software using only command-line tools.)(C) (Developing software on one computer (the host) and executing it on a separate machine (the target).)(D) (Developing a single component in isolation.)(C)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(If a system requires high availability, meaning alternative implementations of a component must be available in case of platform failure, what deployment factor does this dictate?)(A) (Components must be deployed on a single, centralized platform.)(B) (Components must be implemented using only open source software.)(C) (Components may need to be deployed on more than one platform.)(D) (The system must use a purely monolithic architecture.)(C)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Which specific UML model shows objects arranged horizontally, with time represented vertically, illustrating the sequence of object interactions?)(A) (State machine model)(B) (Sequence model)(C) (Use case model)(D) (Subsystem model)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(A developer is trying to implement a "Standard way of accessing the elements in a collection, irrespective of how that collection is implemented." Which general-purpose design pattern should they look for?)(A) (Observer pattern)(B) (Façade pattern)(C) (Decorator pattern)(D) (Iterator pattern)(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(If two components have a high level of communications traffic between them, where should they ideally be deployed, and why?)(A) (On the same platform or physically close platforms to reduce the delay between messages.)(B) (On separate, geographically distributed platforms to increase availability.)(C) (Only on the host development platform.)(D) (In a location determined solely by the licensing requirements.)(A)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(In the context of the UML, which construct (an encapsulation construct) is used to show logical groupings of objects into coherent subsystems in a Subsystem Model?)(A) (Sequence diagrams)(B) (Packages)(C) (State machine models)(D) (Class attributes)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What kind of licensing model is described as 'reciprocal,' meaning that if open source software licensed under it is used to develop a new system, then that new system must also be open source?)(A) (The Berkley Standard Distribution (BSD) License)(B) (The GNU Lesser General Public License (LGPL))(C) (The Apache License)(D) (The GNU General Public License (GPL))(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(When an object-oriented design process is used, what is the required relationship between an object and its interfaces, as supported directly by languages like Java?)(A) (There must be a simple 1:1 relationship between object and interface.)(B) (An object may have several interfaces, which are viewpoints on the methods it provides.)(C) (Interfaces must always include details of the data representation.)(D) (An object can implement only one interface.)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(When developing a system by purchasing and adapting an off-the-shelf COTS (Commercial Off-the-Shelf) package, how does this affect the software design process?)(A) (The design process shifts focus entirely to developing new programming languages.)(B) (The design process is eliminated entirely.)(C) (The design process becomes concerned with how to use the configuration features of the COTS system to deliver requirements.)(D) (The system must now be developed using only the waterfall model.)(C)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is the core principle behind the business model of many companies that use an open source approach to development?)(A) (Selling the source code exclusively.)(B) (Maintaining strict secrecy over the source code.)(C) (Relying on selling support for the product rather than selling the software product itself.)(D) (Mandating the use of proprietary licenses.)(C)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Why is the State Machine Model generally most useful for complex objects (like the Weather Station object) but often unnecessary for simpler components (like an Anemometer)?)(A) (The simpler components lack internal data.)(B) (State diagrams are only useful for static structural modeling.)(C) (Complex objects require a high-level model of their run-time behavior and state changes in response to external events.)(D) (The simpler components must be accessed through a single interface, simplifying their design.)(C)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(Which level of reuse involves using entire application systems?)(A) (The abstraction level)(B) (The object level)(C) (The component level)(D) (The system level)(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is the nature of the Berkley Standard Distribution (BSD) License?)(A) (It is a reciprocal license that mandates the resulting system must be open source.)(B) (It is a non-reciprocal license, meaning you are not obliged to re-publish changes, allowing inclusion in proprietary systems.)(C) (It requires that the source code must never be published.)(D) (It applies only to open-source components used for testing.)(B)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(What is the term for a set of software tools that supports different aspects of software development within some common framework and user interface, often created to support development in a specific language?)(A) (Configuration Management System)(B) (Test Automation Framework)(C) (Host Development Platform)(D) (Integrated Development Environment (IDE))(D)
+
+--------------------------------------------------------------------------------
+(5_Implementation.pdf)(To ensure that objects and other components can be designed in parallel, what element of the object must be specified precisely?)(A) (The internal data representation details.)(B) (The programming language syntax.)(C) (Object interfaces.)(D) (The prototype objectives.)(C)
+
+--------------------------------------------------------------------------------
+Kaynak 6: Excerpts from "6_Testing.pdf" (25 Questions)
+(6_Testing.pdf)(What is the fundamental limitation of software testing?)(A) (It can only be performed after the system is fully deployed.)(B) (It can reveal the presence of errors but not their absence.)(C) (It only works for functional requirements.)(D) (It is only useful in plan-driven development.)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What is the distinction between Verification and Validation?)(A) (Verification ensures the software is fit for purpose, while Validation ensures it conforms to its specification.)(B) (Verification is dynamic (testing), while Validation is static (inspections).)(C) (Verification asks: "Are we building the product right" (conforming to specification), while Validation asks: "Are we building the right product" (meeting user needs).)(D) (Verification is done by customers, while Validation is done by developers.)(C)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(Which static verification technique involves people examining the source representation to discover anomalies and defects, often before implementation, where errors masking other errors is not a concern?)(A) (Software inspections)(B) (Program testing)(C) (System testing)(D) (Alpha testing)(A)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(Which stage of testing involves a separate testing team checking a complete version of the system before it is released to users, focusing on showing that the system is good enough for use (validation testing)?)(A) (Development testing)(B) (Unit testing)(C) (Release testing)(D) (User testing)(C)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What is the primary goal of Defect Testing?)(A) (To demonstrate to the customer that the software meets its requirements.)(B) (To discover situations in which the behavior of the software is incorrect, undesirable, or does not conform to its specification.)(C) (To ensure that performance metrics are met under normal load.)(D) (To determine system usability.)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(Why is User Testing considered essential even after comprehensive system and release testing have been carried out?)(A) (User testing is cheaper than in-house development testing.)(B) (It is required to verify the correctness of the architectural design.)(C) (Influences from the user’s working environment have a major effect on reliability, performance, usability, and robustness, which cannot be replicated in a testing environment.)(D) (It is the only way to perform unit testing.)(C)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(In Development Testing, what is the specific focus of System testing?)(A) (Testing individual functions in isolation.)(B) (Testing individual component interfaces.)(C) (Testing the functionality of object methods.)(D) (Testing component interactions and emergent behavior of the system.)(D)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What are Mock objects primarily used for in unit testing?)(A) (To simulate the functionality or abnormal operations of external objects that the tested object depends on.)(B) (To replace the entire automated testing framework.)(C) (To generate test data automatically from the specification.)(D) (To simplify the assertion part of the test.)(A)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What is Partition testing (or Equivalence Partitioning)?)(A) (Testing every single input combination possible.)(B) (Identifying groups of inputs that share common characteristics (equivalence partitions) and choosing tests from within each group.)(C) (Testing the system by varying the order components are activated.)(D) (Testing the sequence of state transitions using a state model.)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What type of interface error occurs when a calling component embeds incorrect assumptions about the behavior of the called component?)(A) (Interface misuse)(B) (Timing errors)(C) (Interface misunderstanding)(D) (Parameter interface error)(C)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What is the purpose of Stress Testing?)(A) (To identify equivalence partitions for inputs.)(B) (To deliberately overload the system to test its failure behavior and reveal defects that only show up under full load.)(C) (To verify component interfaces.)(D) (To ensure all error messages are generated.)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(In Test-Driven Development (TDD), what is the critical driver of development?)(A) (Writing the tests before the code and ensuring the code 'passes' the tests.)(B) (Minimizing the number of tests written to speed up development.)(C) (Writing the design documentation before the code.)(D) (Maximizing the size of the functional increment.)(A)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(A system requirement states that prescription of medication known to cause allergies must result in a warning message. What type of testing involves setting up patient records with and without known allergies to systematically verify this specific functionality?)(A) (Stress testing)(B) (Scenario testing)(C) (Requirements-based testing)(D) (Component testing)(C)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(TDD contributes significantly to Regression Testing by providing what specific outcome?)(A) (A regression test suite is developed incrementally and can be automatically rerun every time a change is made.)(B) (It eliminates the need for any subsequent system validation.)(C) (It forces all tests to be run manually.)(D) (It guarantees that all code segments have zero defects.)(A)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(Which type of user testing involves a release of the software being made available to users (early adopters) to experiment and raise problems, particularly useful for discovering interaction problems with the operational environment?)(A) (Alpha testing)(B) (Beta testing)(C) (Acceptance testing)(D) (Integration testing)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What specific advantage do Software Inspections have over dynamic testing when dealing with errors in incomplete systems?)(A) (Inspections automatically verify non-functional requirements.)(B) (Inspections do not require the development of specialized test harnesses to test available parts.)(C) (Inspections are always conducted by an independent team.)(D) (Inspections are generally cheaper than running automated unit tests.)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(In Release Testing, tests are derived solely from the system specification. What general category of testing is this classified as?)(A) (White-box testing)(B) (Black-box testing)(C) (Unit testing)(D) (Scenario testing)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(When performing Interface Testing, why is it recommended to design tests so that parameters to a called procedure are at the extreme ends of their ranges?)(A) (This prevents timing errors in shared memory systems.)(B) (This ensures interface misuse is avoided.)(C) (This addresses a common source of programming error related to input processing at the edges of partitions/ranges.)(D) (This is only required for message passing interfaces.)(C)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(In an automated unit testing framework, what specific action occurs in the Assertion part?)(A) (The object or method to be tested is called.)(B) (The system is initialized with the test case.)(C) (Mock objects are defined.)(D) (The result of the call is compared with the expected result to determine test success or failure.)(D)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(If a programmer fails to test sequences of zero length, what common defect related to sequence processing might be missed?)(A) (Failure to properly handle an empty input list or array.)(B) (Errors in accessing the middle element.)(C) (Errors related to computation results being too large.)(D) (Interface misuse problems.)(A)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What type of error is a guideline for interface testing designed to prevent by recommending varying the order in which components are activated in shared memory systems?)(A) (Interface misuse)(B) (Timing errors)(C) (Interface misunderstanding)(D) (Parameter interface error)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(In Agile methods, who is primarily responsible for making decisions on the acceptability of the system and defining the necessary tests?)(A) (A separate, independent acceptance testing team.)(B) (The external regulatory body.)(C) (The system integrator.)(D) (The user/customer who is part of the development team.)(D)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(In the context of V&V confidence, under which market circumstance might getting a product to market early be prioritized over finding every possible defect in the program?)(A) (When the software is safety-critical.)(B) (In a competitive marketing environment.)(C) (When the software purpose is highly critical to an organization.)(D) (When formal acceptance criteria are strictly defined.)(B)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(What is the methodology called where typical usage scenarios (narrative stories) are devised, and these scenarios are used to develop test cases for the system, often testing several requirements within the same story?)(A) (Scenario testing)(B) (Partition testing)(C) (Requirements-based testing)(D) (Unit testing)(A)
+
+--------------------------------------------------------------------------------
+(6_Testing.pdf)(A critical system has a requirement that states: "If a prescriber chooses to ignore an allergy warning, they shall provide a reason why this has been ignored." To perform Requirements-based testing for this, what must the corresponding test case verify?)(A) (That the system correctly issues a warning when an allergy is present.)(B) (That the system correctly proceeds with the prescription without intervention if no allergy is found.)(C) (That the system mandates the user to input explanatory information after overruling the warning.)(D) (That the system automatically prevents prescription if an allergy is detected.)(C)
+
+--------------------------------------------------------------------------------
