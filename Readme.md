@@ -24,7 +24,7 @@ quiz.py ile çalıştırın.
 ✅ Doğru cevap **yeşil**, yanlış cevap **kırmızı** renkle vurgulanır.  
 ✅ Üstte skor tablosu bulunur.  
 ✅ Modern karanlık tema kullanılır.  
-✅ Uygulama sabit boyut: `900x500`
+
 
 ---
 
