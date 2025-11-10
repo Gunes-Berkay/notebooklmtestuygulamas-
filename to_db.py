@@ -87,14 +87,21 @@ def insert_questions_from_txt(txt_path: str, db_path: str, table_name: str) -> i
 
 
 # Eğer dosya doğrudan çalıştırılırsa tests klasöründeki tüm txtleri db'ye aktar
+# if __name__ == "__main__":
+#     DB = "database.db"  # quiz.py'de kullandığın DB dosyasıyla aynı olmalı
+#     TESTS_DIR = "tests"
+#     os.makedirs(TESTS_DIR, exist_ok=True)
+#     txts = [f for f in os.listdir(TESTS_DIR) if f.lower().endswith(".txt")]
+#     for t in txts:
+#         path = os.path.join(TESTS_DIR, t)
+#         table = os.path.splitext(t)[0]
+#         print(f"İşleniyor: {t} -> tablo: {table}")
+#         insert_questions_from_txt(path, DB, table)
+#     print("Tamamlandı.")
+    
 if __name__ == "__main__":
     DB = "database.db"  # quiz.py'de kullandığın DB dosyasıyla aynı olmalı
     TESTS_DIR = "tests"
-    os.makedirs(TESTS_DIR, exist_ok=True)
-    txts = [f for f in os.listdir(TESTS_DIR) if f.lower().endswith(".txt")]
-    for t in txts:
-        path = os.path.join(TESTS_DIR, t)
-        table = os.path.splitext(t)[0]
-        print(f"İşleniyor: {t} -> tablo: {table}")
-        insert_questions_from_txt(path, DB, table)
+    insert_questions_from_txt(os.path.join(TESTS_DIR, "cloud.txt"), DB, "cloud1")
     print("Tamamlandı.")
+

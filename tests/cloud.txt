@@ -1,381 +1,1123 @@
---------------------------------------------------------------------------------
-Module 1 - Cloud Concepts Overview.pdf (25 Questions)
-(Module 1 - Cloud Concepts Overview.pdf) (What is the definition of cloud computing?)(A Compute power delivered via satellites with fixed pricing.)(B The on-demand delivery of compute power, database, storage, applications, and other IT resources via the internet with pay-as-you-go pricing.)(C Leasing hardware for dedicated on-premises data centers.)(D Managing underlying hardware and operating systems for applications.)(B)
+(Module 1 - Cloud Concepts Overview.pdf)(What is defined as the on-demand delivery of compute power, database, storage, applications, and other IT resources via the internet with pay-as-you-go pricing?)(A) (Traditional Computing Model)(B) (Cloud Computing)(C) (Infrastructure as Hardware)(D) (System Engineering)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (In the traditional computing model, what is infrastructure primarily regarded as?)(A Software.)(B A disposable resource.)(C Hardware.)(D A flexible service.)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What concept enables you to stop thinking of infrastructure as hardware and instead use it as flexible software?)(A Capital expenditure.)(B Infrastructure as software.)(C Hardware procurement cycle.)(D Theoretical maximum peaks.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which cloud service model provides you with the highest level of flexibility and management control over your IT resources, similar to existing IT resources?)(A Platform as a service (PaaS).)(B Software as a service (SaaS).)(C Infrastructure as a service (IaaS).)(D Function as a service (FaaS).)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which cloud service model reduces the need for you to manage the underlying infrastructure (hardware and operating systems) and enables you to focus on application deployment?)(A Infrastructure as a service (IaaS).)(B Platform as a service (PaaS).)(C Software as a service (SaaS).)(D Hardware as a service (HaaS).)(B)
+(Module 1 - Cloud Concepts Overview.pdf)(Which cloud service model provides the highest level of flexibility and management control over IT resources, often consisting of basic building blocks like networking and compute?)(A) (Software as a Service (SaaS))(B) (Platform as a Service (PaaS))(C) (Infrastructure as a Service (IaaS))(D) (Data as a Service (DaaS))(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which cloud service model provides a completed product that the service provider runs and manages, often referring to end-user applications like web-based email?)(A Infrastructure as a service (IaaS).)(B Platform as a service (PaaS).)(C Software as a service (SaaS).)(D Compute as a service (CaaS).)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What type of deployment model refers to an application that is fully deployed, and all parts run, in the cloud?)(A Hybrid.)(B On-premises.)(C Private cloud.)(D Cloud.)(D)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What deployment model connects infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud?)(A Cloud.)(B Hybrid.)(C On-premises.)(D Virtual cloud.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What deployment model involves deploying resources using virtualization and resource management tools on private infrastructure, sometimes called a private cloud?)(A Cloud.)(B Hybrid.)(C On-premises.)(D Public cloud.)(C)
+(Module 1 - Cloud Concepts Overview.pdf)(Which cloud service model reduces the need for customers to manage underlying infrastructure like hardware and operating systems, allowing them to focus on application deployment?)(A) (Infrastructure as a Service (IaaS))(B) (Platform as a Service (PaaS))(C) (Software as a Service (SaaS))(D) (Function as a Service (FaaS))(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What term defines funds that a company uses to acquire, upgrade, and maintain physical assets, typically requiring upfront investment?)(A Variable expense.)(B Operational expenditure.)(C Capital expense.)(D Consumption model.)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What is an expense that the person who bears the cost can easily alter or avoid, typically by paying only when consuming resources?)(A Capital expense.)(B Variable expense.)(C Fixed cost.)(D Long-term contract cost.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What concept allows users to achieve a lower variable cost due to the aggregation of usage from hundreds of thousands of customers in the cloud?)(A Capital expense trade-off.)(B Massive economies of scale.)(C Capacity guessing.)(D Fixed pricing model.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which advantage of cloud computing refers to eliminating the uncertainty about infrastructure needs before application deployment?)(A Trade capital expense for variable expense.)(B Benefit from massive economies of scale.)(C Stop guessing capacity.)(D Go global in minutes.)(C)
+(Module 1 - Cloud Concepts Overview.pdf)(Which cloud service model provides a completed product run and managed by the service provider, often referring to end-user applications like web-based email?)(A) (Infrastructure as a Service (IaaS))(B) (Platform as a Service (PaaS))(C) (Software as a Service (SaaS))(D) (Storage as a Service (STaaS))(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What advantage refers to the reduction in time required to make new IT resources available to developers, moving from weeks to minutes?)(A Trade capital expense for variable expense.)(B Stop spending money on data centers.)(C Increase speed and agility.)(D Go global in minutes.)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What is defined as any piece of software that makes itself available over the internet or on private networks, using a standardized format like XML or JSON for API interaction?)(A A core server.)(B A web service.)(C A local network component.)(D A monolithic application.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What is AWS defined as?)(A A closed hardware platform for on-premises use.)(B A secure cloud platform offering a broad set of global cloud-based products.)(C A single, regional data center solution.)(D A service requiring long-term contracts for all resources.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which interface provides a rich graphical interface to a majority of the features offered by AWS?)(A AWS Command Line Interface (AWS CLI).)(B Software Development Kits (SDKs).)(C AWS Management Console.)(D HTTPS Query API.)(C)
+(Module 1 - Cloud Concepts Overview.pdf)(Which deployment model refers to an application fully deployed in the cloud, where all parts run in the cloud environment?)(A) (On-premises)(B) (Hybrid)(C) (Cloud)(D) (Private Cloud)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which tool provides a suite of utilities that can be launched from a command script in Linux, macOS, or Microsoft Windows for accessing AWS?)(A AWS Management Console.)(B AWS Command Line Interface (AWS CLI).)(C Software Development Kits (SDKs).)(D AWS CloudFormation.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What are the AWS packages that enable accessing AWS in a variety of popular programming languages?)(A APIs.)(B AWS Management Console.)(C Software Development Kits (SDKs).)(D Command Scripts.)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (What framework was created to help organizations design and travel an accelerated path to successful cloud adoption by identifying gaps in skills and processes?)(A AWS Well-Architected Framework.)(B AWS Cloud Adoption Framework (AWS CAF).)(C AWS Enterprise Strategy.)(D AWS Global Infrastructure.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Within the AWS CAF, what term refers to the six areas of focus that organize guidance and span people, processes, and technology?)(A Capabilities.)(B Pillars.)(C Initiatives.)(D Perspectives.)(D)
+(Module 1 - Cloud Concepts Overview.pdf)(Which deployment model connects infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud, often on-premises infrastructure?)(A) (Cloud)(B) (Hybrid)(C) (On-premises)(D) (Dedicated Cloud)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which AWS CAF Perspective focuses on creating a strong business case for cloud adoption and ensuring an organization’s business strategies align with its IT strategies?)(A People perspective.)(B Governance perspective.)(C Business perspective.)(D Platform perspective.)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which AWS CAF Perspective focuses on evaluating organizational structures, new skill/process requirements, and identifying gaps to prioritize training and staffing?)(A Platform perspective.)(B Security perspective.)(C People perspective.)(D Operations perspective.)(C)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which AWS CAF Perspective focuses on the skills and processes needed to align IT strategy and goals with business strategy and goals, aiming to maximize business value and minimize business risks?)(A Business perspective.)(B Governance perspective.)(C Platform perspective.)(D Security perspective.)(B)
 
 --------------------------------------------------------------------------------
-(Module 1 - Cloud Concepts Overview.pdf) (Which AWS CAF Perspective uses architectural dimensions and models to understand and communicate IT systems and their relationships, detailing the architecture of the target state environment?)(A Security perspective.)(B Operations perspective.)(C Governance perspective.)(D Platform perspective.)(D)
+(Module 1 - Cloud Concepts Overview.pdf)(Which deployment model is sometimes referred to as 'private cloud' and involves deploying resources using virtualization and resource management tools locally?)(A) (SaaS)(B) (Hybrid)(C) (Cloud)(D) (On-premises)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(In the traditional computing model, how is infrastructure typically regarded?)(A) (As software)(B) (As flexible capacity)(C) (As hardware)(D) (As temporary and disposable)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which advantage of cloud computing involves paying only when consuming resources, instead of heavy upfront investment based on forecasts?)(A) (Massive economies of scale)(B) (Increase speed and agility)(C) (Go global in minutes)(D) (Trade capital expense for variable expense)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which advantage states that aggregate usage from hundreds of thousands of customers translates into lower pay-as-you-go prices?)(A) (Stop guessing capacity)(B) (Benefit from massive economies of scale)(C) (Increase speed and agility)(D) (Trade capital expense for variable expense)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which advantage eliminates the need to guess theoretical maximum peaks for infrastructure capacity, allowing scaling up and down as required?)(A) (Increase speed and agility)(B) (Benefit from massive economies of scale)(C) (Stop guessing capacity)(D) (Go global in minutes)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which advantage describes the ability to deploy an application in multiple AWS Regions around the world quickly, providing lower latency to global customers?)(A) (Increase speed and agility)(B) (Stop guessing capacity)(C) (Go global in minutes)(D) (Trade capital expense for variable expense)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(What is defined as any piece of software that makes itself available over the internet and uses a standardized format like XML or JSON for API interactions?)(A) (A cloud deployment model)(B) (A traditional application)(C) (A web service)(D) (A container image)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(What is defined as a secure cloud platform that offers a broad set of global cloud-based products, providing on-demand access to compute, storage, network, and database resources?)(A) (AWS Global Infrastructure)(B) (Amazon Web Services (AWS))(C) (AWS Cloud Adoption Framework)(D) (Traditional Data Center)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which AWS Compute service should be chosen if a user wants complete control over their AWS computing resources?)(A) (AWS Lambda)(B) (AWS Elastic Beanstalk)(C) (Amazon Elastic Compute Cloud (Amazon EC2))(D) (AWS Fargate)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which AWS Compute service allows users to run code without provisioning or managing servers?)(A) (Amazon EC2)(B) (AWS Lambda)(C) (Amazon Lightsail)(D) (AWS Batch)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which AWS service is listed as a Storage service analog to Network Attached Storage (NAS) in the traditional IT space?)(A) (Amazon EBS)(B) (Amazon EFS)(C) (Amazon S3)(D) (Amazon RDS)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(What is the rich graphical interface provided for accessing a majority of the features offered by AWS?)(A) (AWS Command Line Interface (AWS CLI))(B) (Software Development Kits (SDKs))(C) (AWS Management Console)(D) (REST-like API)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(What provides a suite of utilities that can be launched from a command script in Linux, macOS, or Microsoft Windows for AWS management?)(A) (AWS Management Console)(B) (Software Development Kits (SDKs))(C) (AWS Command Line Interface (AWS CLI))(D) (AWS CloudTrail)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(What provides packages that enable accessing AWS in a variety of popular programming languages, making it easy to use AWS in existing applications?)(A) (AWS Management Console)(B) (Software Development Kits (SDKs))(C) (AWS Command Line Interface (AWS CLI))(D) (AWS Billing Dashboard)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(What was created to help organizations design and travel an accelerated path to successful cloud adoption by identifying gaps in skills and processes?)(A) (AWS Well-Architected Tool)(B) (AWS Global Infrastructure)(C) (AWS Cloud Adoption Framework (AWS CAF))(D) (AWS Shared Responsibility Model)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(The AWS CAF organizes guidance into six areas of focus, spanning which three core elements?)(A) (Hardware, Software, and Networking)(B) (Cost, Security, and Performance)(C) (People, Process, and Technology)(D) (Region, Availability Zone, and Edge Location)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which AWS CAF perspective focuses on business managers, finance managers, and budget owners ensuring IT aligns with business needs and maximizing IT investment value?)(A) (Governance Perspective)(B) (People Perspective)(C) (Platform Perspective)(D) (Business Perspective)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which AWS CAF perspective focuses on human resources, staffing, and managers evaluating organizational structures, new skill requirements, and prioritizing training?)(A) (Platform Perspective)(B) (Security Perspective)(C) (People Perspective)(D) (Operations Perspective)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 1 - Cloud Concepts Overview.pdf)(Which AWS CAF perspective focuses on defining how day-to-day business is conducted, aligning with business operations, and includes service monitoring and disaster recovery?)(A) (Platform Perspective)(B) (Operations Perspective)(C) (Governance Perspective)(D) (Business Perspective)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 Module 2-Cloud Economics and Billing.pdf (25 Questions)
-(Module 2-Cloud Economics and Billing.pdf) (What is the pricing model for AWS compute resources, typically charged per hour or second?)(A Fixed cost.)(B Utility cost.)(C Fundamental cost driver.)(D Annual fee.)(C)
+(Module 2-Cloud Economics and Billing.pdf)(What are the three fundamental drivers of cost with AWS?)(A) (Regions, Availability Zones, and Edge Locations)(B) (Compute, Storage, and Outbound Data Transfer)(C) (Servers, Licensing, and IT Labor)(D) (Upfront payment, Reserved capacity, and Volume)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What is the fundamental driver of cost related to storing data, typically charged per GB?)(A Compute.)(B Storage.)(C Data transfer in.)(D Reserved capacity.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What category of data transfer is typically aggregated across services and charged at a specific rate, appearing as AWS Data Transfer Out on the monthly statement?)(A Inbound data transfer.)(B Data transfer within a Region.)(C Outbound data transfer.)(D Network pipeline transfer.)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What term describes the AWS pricing philosophy where you pay only for the exact amount of resources you actually need?)(A Capital-style pricing model.)(B Utility-style pricing model.)(C Contractual pricing model.)(D Forecasted pricing model.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which pricing concept eliminates large upfront expenses, allowing users to pay only for the services that they consume?)(A Pay less when you reserve.)(B Pay for what you use.)(C Pay even less as AWS grows.)(D Volume-based pricing.)(B)
+(Module 2-Cloud Economics and Billing.pdf)(What is the core philosophy underlying AWS pricing regarding resource usage?)(A) (Pay based on forecast peaks)(B) (Pay for what you use)(C) (Pay a fixed monthly fee)(D) (Pay less when you use less)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What mechanism allows users to invest in reserved capacity for certain services like Amazon EC2 or Amazon RDS to save up to 75% over on-demand capacity?)(A Volume-based discounts.)(B AWS Free Tier.)(C Reserved Instances (RIs).)(D Spot Instances.)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which Reserved Instance (RI) option provides the largest discount by requiring the customer to pay all upfront?)(A Partial Upfront Reserved Instance (PURI).)(B No Upfront Payments Reserved Instance (NURI).)(C All Upfront Reserved Instance (AURI).)(D Flexible Reserved Instance (FRI).)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which Reserved Instance (RI) option provides a smaller discount but allows the customer to spend nothing upfront?)(A Partial Upfront Reserved Instance (PURI).)(B No Upfront Payments Reserved Instance (NURI).)(C All Upfront Reserved Instance (AURI).)(D Full Commitment Reserved Instance (FCRI).)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What pricing concept refers to tiered pricing for services like Amazon S3, meaning users pay less per GB when they consume more?)(A Custom pricing.)(B Volume-based discounts.)(C Reserved capacity.)(D All Upfront pricing.)(B)
+(Module 2-Cloud Economics and Billing.pdf)(For certain services like Amazon EC2, how can customers achieve savings of up to 75 percent over equivalent on-demand capacity?)(A) (Using the AWS Free Tier)(B) (Investing in Reserved Instances (RIs))(C) (Utilizing volume-based discounts)(D) (Choosing the All Upfront option)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What pricing option is available for high-volume projects with unique requirements that might not fit standard pricing models?)(A Volume-based discounts.)(B Custom pricing.)(C Reserved Instances.)(D Standard pricing.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What is the free usage tier offered to new AWS customers for up to 1 year, enabling free hands-on experience with the platform?)(A AWS Enterprise Support.)(B AWS Savings Plan.)(C AWS Free Tier.)(D Custom Usage Plan.)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which AWS service, offered at no additional charge, enables you to provision a logically isolated section of the AWS Cloud?)(A Amazon S3.)(B Amazon EC2.)(C Amazon VPC.)(D Amazon RDS.)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which AWS service, offered at no additional charge, controls your users’ access to AWS services and resources?)(A AWS Cost Explorer.)(B AWS Billing Dashboard.)(C AWS IAM.)(D AWS KMS.)(C)
+(Module 2-Cloud Economics and Billing.pdf)(Which Reserved Instance option maximizes savings by requiring the largest upfront payment?)(A) (Partial Upfront Reserved Instance (PURI))(B) (No Upfront Payments Reserved Instance (NURI))(C) (All Upfront Reserved Instance (AURI))(D) (On-Demand Reserved Instance (ODRI))(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What billing feature in AWS Organizations simplifies payment by consolidating multiple AWS accounts into a single bill and offering volume pricing discounts?)(A AWS Budgets.)(B Consolidated Billing.)(C AWS Cost Explorer.)(D Custom Pricing.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which AWS service is described as an easier way to quickly deploy and manage applications in the AWS Cloud?)(A AWS CloudFormation.)(B AWS Elastic Beanstalk.)(C AWS OpsWorks.)(D Amazon EC2.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which AWS service gives developers an easy way to create a collection of related AWS resources and provision them in an orderly fashion?)(A AWS IAM.)(B AWS CloudFormation.)(C AWS Elastic Beanstalk.)(D AWS Lambda.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What refers to the ability to automatically add or remove resources according to defined conditions to maintain performance and decrease costs during lulls?)(A Reserved Capacity.)(B Consolidated Billing.)(C Automatic Scaling Services.)(D Volume Pricing.)(C)
+(Module 2-Cloud Economics and Billing.pdf)(How do customers benefit from volume-based discounts in AWS for services like Amazon S3?)(A) (They pay more per GB as usage increases)(B) (They pay less per GB when they use more)(C) (They receive a fixed monthly rate regardless of usage)(D) (They receive discounts only for inbound data transfer)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What is the financial estimate intended to help identify the direct and indirect costs of a system, often used to compare on-premises vs. cloud solutions?)(A Return on Investment (ROI).)(B Capital Expenditure (Capex).)(C Total Cost of Ownership (TCO).)(D Variable Expense (VarEX).)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What tool does AWS offer to help estimate a monthly AWS bill, explore services, model solutions, and identify cost reduction opportunities?)(A AWS Bills.)(B AWS Pricing Calculator.)(C AWS Cost and Usage Report.)(D AWS Budgets.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (In the AWS Pricing Calculator, what are the containers that you add services to in order to organize and build your cost estimate?)(A Budgets.)(B Reports.)(C Groups.)(D Folders.)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What type of cloud benefit includes direct and visible cost reductions and efficiency improvements, such as reduced spending on compute or hardware purchases?)(A Soft benefits.)(B Intangible benefits.)(C Hard benefits.)(D Operational benefits.)(C)
+(Module 2-Cloud Economics and Billing.pdf)(For new AWS customers, how long is the free usage tier typically offered?)(A) (3 months)(B) (6 months)(C) (1 year)(D) (2 years)(C)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What type of cloud benefit includes value points that are challenging to accurately quantify, such as increased developer productivity or improved customer satisfaction?)(A Hard savings.)(B Soft benefits.)(C Fixed savings.)(D TCO savings.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (Which AWS tool lets you view the status of your month-to-date AWS expenditure, identify top cost services, and understand cost trending?)(A AWS Cost Explorer.)(B AWS Billing Dashboard.)(C AWS Cost and Usage Report.)(D AWS Trusted Advisor.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What free AWS tool enables you to visualize, understand, and manage your AWS costs and usage over time, view charts, and forecast spending?)(A AWS Bills.)(B AWS Cost Explorer.)(C AWS Budgets.)(D Consolidated Billing.)(B)
 
 --------------------------------------------------------------------------------
-(Module 2-Cloud Economics and Billing.pdf) (What AWS tool uses cost visualization to show budget status and forecasts, and allows creation of notifications for when estimated costs exceed a budget?)(A AWS Cost Explorer.)(B AWS Pricing Calculator.)(C AWS Bills.)(D AWS Budgets.)(D)
+(Module 2-Cloud Economics and Billing.pdf)(Which AWS service controls users' access to AWS services and resources and is offered at no additional charge?)(A) (Amazon EC2)(B) (AWS Identity and Access Management (IAM))(C) (Elastic Load Balancing)(D) (Amazon S3)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which AWS service, offered for no additional charge, enables provisioning a logically isolated section of the AWS Cloud?)(A) (Amazon Virtual Private Cloud (Amazon VPC))(B) (Amazon DynamoDB)(C) (Amazon RDS)(D) (AWS CloudFormation)(A)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(What billing feature in AWS Organizations consolidates payment for multiple AWS accounts and provides potential volume pricing discounts?)(A) (AWS Budgets)(B) (AWS Cost Explorer)(C) (Consolidated Billing)(D) (AWS Cost and Usage Report)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(What is the financial estimate intended to help identify the direct and indirect costs of a product or system, often used to compare on-premises vs. AWS costs?)(A) (Return on Investment (ROI))(B) (Capital Expenditure (Capex))(C) (Variable Expense (Varex))(D) (Total Cost of Ownership (TCO))(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which item is considered a 'Hard Benefit' when evaluating the financial impact of moving to the cloud?)(A) (Improved customer satisfaction)(B) (Agile business processes)(C) (Increased developer productivity)(D) (Reduced spending on compute, storage, networking, security)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(What is a key example of a 'Soft Benefit' in cloud migration that is challenging to quantify accurately but highly valuable?)(A) (Reductions in operational costs)(B) (Reduction in hardware purchases)(C) (Improved customer satisfaction)(D) (Reduction in operations personnel)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which AWS tool is used to help estimate a monthly AWS bill, identify cost reduction opportunities, and model solutions before building them?)(A) (AWS Billing Dashboard)(B) (AWS Cost Explorer)(C) (AWS Pricing Calculator)(D) (AWS Trusted Advisor)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(What is the free account management service that enables you to consolidate multiple AWS accounts into an organization for central management?)(A) (AWS Cost Explorer)(B) (AWS Organizations)(C) (AWS Identity and Access Management (IAM))(D) (AWS Billing Dashboard)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(In AWS Organizations, what is defined as a container for accounts within a root, which can also contain other containers of the same type?)(A) (IAM Group)(B) (Service Control Policy (SCP))(C) (Organizational Unit (OU))(D) (AWS Region)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(What type of policies are used in AWS Organizations to centrally control AWS services across multiple AWS accounts, affecting all IAM users and roles?)(A) (Identity-based policies)(B) (Resource-based policies)(C) (Service control policies (SCPs))(D) (Root policies)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which tool allows viewing the status of your month-to-date AWS expenditure, identifying major cost-incurring services, and understanding cost trends?)(A) (AWS Cost Explorer)(B) (AWS Budgets)(C) (AWS Billing Dashboard)(D) (AWS Bills page)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which free tool enables you to visualize, understand, and manage AWS costs and usage over time, view data for the past 13 months, and forecast spending for the next 3 months?)(A) (AWS Bills)(B) (AWS Cost Explorer)(C) (AWS Budgets)(D) (AWS Cost and Usage Report)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which tool enables you to set custom financial limits that alert you when costs or usage exceed (or are forecasted to exceed) the defined limits?)(A) (AWS Bills)(B) (AWS Cost Explorer)(C) (AWS Budgets)(D) (AWS Cost and Usage Report)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which tool serves as a single location for accessing the most comprehensive information about AWS costs and usage, listing usage in hourly or daily line items?)(A) (AWS Bills)(B) (AWS Cost Explorer)(C) (AWS Budgets)(D) (AWS Cost and Usage Report)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which AWS Support plan is recommended for customers that run production workloads and depend on their business solutions being available, scalable, and secure?)(A) (Basic Support)(B) (Developer Support)(C) (Business Support)(D) (Enterprise Support)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which AWS Support plan is designed for business and mission-critical workloads and includes a designated Technical Account Manager (TAM)?)(A) (Basic Support)(B) (Developer Support)(C) (Business Support)(D) (Enterprise Support)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(What is the designated role in AWS Support that provides proactive guidance, architectural review, and continuous ongoing communication?)(A) (Support Concierge)(B) (IT Security Manager)(C) (Technical Account Manager (TAM))(D) (AWS Trusted Advisor)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(Which online resource checks for opportunities to reduce monthly expenditures and increase productivity, acting like a customized cloud expert?)(A) (AWS Cost Explorer)(B) (AWS Billing Dashboard)(C) (AWS Trusted Advisor)(D) (AWS Shield)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 2-Cloud Economics and Billing.pdf)(According to AWS Support case severity levels, which level applies when the business is at risk and critical functions of the application are unavailable?)(A) (Urgent)(B) (High)(C) (Normal)(D) (Critical)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 Module 3 - AWS Global Infrastructure Overview.pdf (25 Questions)
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What component of the AWS Global Infrastructure is defined as a physical geographical location with one or more Availability Zones, isolated from others for fault tolerance?)(A Edge location.)(B Availability Zone.)(C AWS Region.)(D Data center.)(C)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(What is defined as a physical geographical location with one or more Availability Zones, designed to be isolated from one another for fault tolerance?)(A) (Edge Location)(B) (Availability Zone)(C) (AWS Region)(D) (Data Center)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What component of the AWS Global Infrastructure is defined as a fully isolated partition of the AWS infrastructure within a Region, consisting of discrete data centers?)(A AWS Region.)(B Edge location.)(C Availability Zone (AZ).)(D Regional edge cache.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What is the most granular level of specification that a customer can make when deploying resources in AWS?)(A Data center.)(B Edge location.)(C Availability Zone.)(D Region.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What key factor in selecting an AWS Region refers to minimizing the delay for users accessing applications and data?)(A Data governance.)(B Cost variability.)(C Latency.)(D Service availability.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (Which feature of the AWS infrastructure means resources can dynamically adjust to increases or decreases in capacity requirements?)(A Fault tolerance.)(B High availability.)(C Scalability.)(D Elasticity.)(D)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which factor is essential to consider when selecting an AWS Region due to local laws requiring information to be kept within geographical boundaries?)(A) (Proximity to customers (latency))(B) (Cost variation)(C) (Services availability)(D) (Data governance, legal requirements)(D)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (Which feature of the AWS infrastructure means it adapts to accommodate growth?)(A Elasticity.)(B Fault tolerance.)(C Scalability.)(D High availability.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (Which feature of the AWS infrastructure means it has built-in component redundancy and continues operating properly despite a failure?)(A High availability.)(B Elasticity.)(C Fault tolerance.)(D Scalability.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (Which feature of the AWS infrastructure provides a high level of operational performance with minimized downtime?)(A Fault tolerance.)(B High availability.)(C Elasticity.)(D Scalability.)(B)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What are the worldwide locations used by Amazon CloudFront and Amazon Route 53 to route requests to the nearest point to lower latency?)(A Data centers.)(B Regional edge caches.)(C Points of Presence (Edge Locations).)(D Availability Zones.)(C)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Running applications and storing data in a Region close to the users and systems that will access them helps reduce which factor?)(A) (Cost)(B) (Compliance burden)(C) (Latency)(D) (Availability Zone selection)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What are the CloudFront locations that cache content not accessed frequently enough to remain at an edge location, situated between the origin server and global edge locations?)(A Data centers.)(B Availability Zones.)(C Regional edge caches.)(D Network pipelines.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What is a globally distributed system of caching servers used to distribute content to end users with reduced latency?)(A AWS Region.)(B Amazon VPC.)(C Content Delivery Network (CDN).)(D Virtual network.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What storage service is described as object storage that offers scalability, data availability, security, and performance?)(A Amazon Elastic Block Store (Amazon EBS).)(B Amazon Simple Storage Service (Amazon S3).)(C Amazon Elastic File System (Amazon EFS).)(D Amazon S3 Glacier.)(B)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What storage service is described as high-performance block storage designed for use with Amazon EC2 for throughput and transaction intensive workloads?)(A Amazon Simple Storage Service (Amazon S3).)(B Amazon Elastic Block Store (Amazon EBS).)(C Amazon Elastic File System (Amazon EFS).)(D Amazon Aurora.)(B)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(What is defined as an isolated location within an AWS Region, consisting of one or more data centers, designed for fault isolation and interconnected by high-speed private networking?)(A) (AWS Region)(B) (Edge Location)(C) (Availability Zone (AZ))(D) (Regional Edge Cache)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What service provides a scalable, fully managed elastic Network File System (NFS) file system that grows and shrinks automatically on demand?)(A Amazon S3.)(B Amazon EBS.)(C Amazon EFS.)(D Amazon DynamoDB.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What AWS storage class is described as a secure, durable, and extremely low-cost solution for data archiving and long-term backup?)(A Amazon S3.)(B Amazon EFS.)(C Amazon S3 Glacier.)(D Amazon Redshift.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What compute service provides resizable compute capacity as virtual machines in the cloud?)(A AWS Lambda.)(B Amazon EC2.)(C AWS Fargate.)(D Amazon EKS.)(B)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What compute service enables you to run code without provisioning or managing servers, charging only for the compute time consumed?)(A Amazon EC2.)(B AWS Elastic Beanstalk.)(C AWS Lambda.)(D Amazon EKS.)(C)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(To ensure high availability and resiliency, what does AWS recommend regarding data and resource deployment across Availability Zones?)(A) (Centralizing resources in a single AZ)(B) (Replicating data and resources across AZs)(C) (Using Edge Locations only)(D) (Storing data only in the closest AZ)(B)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What database service automates time-consuming administration tasks for relational databases, such as hardware provisioning and patching?)(A Amazon DynamoDB.)(B Amazon Redshift.)(C Amazon Aurora.)(D Amazon Relational Database Service (Amazon RDS).)(D)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What key-value and document database service delivers single-digit millisecond performance at any scale?)(A Amazon RDS.)(B Amazon Redshift.)(C Amazon DynamoDB.)(D Amazon Aurora.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What networking service enables you to provision logically isolated sections of the AWS Cloud?)(A Amazon Route 53.)(B Elastic Load Balancing.)(C Amazon VPC.)(D AWS Direct Connect.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What DNS web service is designed to reliably route end users to internet applications by translating names into numeric IP addresses?)(A Amazon CloudFront.)(B Amazon VPC.)(C Amazon Route 53.)(D AWS Transit Gateway.)(C)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which component represents the most granular level of specification that a customer can make when deploying resources in AWS?)(A) (AWS Data Center)(B) (AWS Region)(C) (Availability Zone)(D) (Edge Location)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What security service enables you to manage access to AWS services and resources securely by controlling user and group permissions?)(A AWS Shield.)(B AWS Identity and Access Management (IAM).)(C Amazon Cognito.)(D AWS KMS.)(B)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What service provides on-demand access to AWS security and compliance reports and select online agreements?)(A AWS Trusted Advisor.)(B AWS Artifact.)(C AWS Config.)(D AWS CloudTrail.)(B)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (What service enables you to create and manage encryption keys and control the use of encryption across a wide range of AWS services?)(A AWS Shield.)(B AWS IAM.)(C AWS KMS.)(D AWS Cognito.)(C)
 
 --------------------------------------------------------------------------------
-(Module 3 - AWS Global Infrastructure Overview.pdf) (Which management service helps you optimize performance and security by checking your AWS environment against best practices?)(A AWS CloudTrail.)(B AWS Config.)(C AWS Management Console.)(D AWS Trusted Advisor.)(D)
+(Module 3 - AWS Global Infrastructure Overview.pdf)(AWS Data Centers are designed with security in mind, including having redundant power, networking, and connectivity, and are housed in which type of facility?)(A) (A facility disclosed publicly)(B) (A temporary facility)(C) (A separate facility)(D) (A shared facility with customers)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(What is the service defined as a content delivery network (CDN) used to distribute content to end users to reduce latency?)(A) (Amazon Route 53)(B) (Elastic Load Balancing)(C) (Amazon CloudFront)(D) (Amazon S3)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(What are the AWS locations in major cities around the world, used by services like Amazon CloudFront and Route 53, to lower latency for user requests?)(A) (Regional Caches)(B) (Availability Zones)(C) (Points of Presence/Edge Locations)(D) (AWS Regions)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which component is used by Amazon CloudFront for content that is not accessed frequently enough to remain in an edge location, providing an alternative to fetching content from the origin server?)(A) (Availability Zones)(B) (AWS Regions)(C) (Regional Edge Caches)(D) (Data Centers)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which AWS infrastructure feature means resources can dynamically adjust to increases or decreases in capacity requirements and rapidly adjust to accommodate growth?)(A) (Fault Tolerance)(B) (High Availability)(C) (Elasticity and Scalability)(D) (Global Reach)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which AWS infrastructure feature describes built-in component redundancy that enables systems to continue operations despite a failed component?)(A) (High Availability)(B) (Scalability)(C) (Fault Tolerance)(D) (Minimal Intervention)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Compute service is described as a compute engine for Amazon ECS that allows users to run containers without having to manage servers or clusters?)(A) (Amazon EKS)(B) (AWS Fargate)(C) (AWS Lambda)(D) (Amazon EC2)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Storage service is characterized as a secure, durable, and extremely low-cost Amazon S3 cloud storage class intended for data archiving and long-term backup?)(A) (Amazon EBS)(B) (Amazon EFS)(C) (Amazon Simple Storage Service Glacier)(D) (Amazon S3)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which AWS service is used for deploying and scaling web applications and services on familiar servers such as Apache and Microsoft IIS?)(A) (Amazon EC2)(B) (AWS Lambda)(C) (AWS Elastic Beanstalk)(D) (Amazon EKS)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Database service delivers single-digit millisecond performance at any scale and is classified as a key-value and document database?)(A) (Amazon RDS)(B) (Amazon Aurora)(C) (Amazon Redshift)(D) (Amazon DynamoDB)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Database service enables running analytic queries against petabytes of data, delivering fast performance at any scale?)(A) (Amazon RDS)(B) (Amazon Aurora)(C) (Amazon Redshift)(D) (Amazon DynamoDB)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Networking service enables customers to connect their Amazon VPCs and their on-premises networks to a single gateway?)(A) (Amazon Route 53)(B) (Elastic Load Balancing)(C) (AWS Direct Connect)(D) (AWS Transit Gateway)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Networking service provides a way to establish a dedicated private network connection from a data center or office to AWS?)(A) (Amazon VPC)(B) (Elastic Load Balancing)(C) (AWS Direct Connect)(D) (AWS VPN)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Security service is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS?)(A) (AWS IAM)(B) (AWS Key Management Service (AWS KMS))(C) (AWS Shield)(D) (AWS Artifact)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Security service provides on-demand access to AWS security and compliance reports and select online agreements?)(A) (Amazon Cognito)(B) (AWS KMS)(C) (AWS Shield)(D) (AWS Artifact)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Management and Governance service provides continuous monitoring and recording of AWS resource configurations to track inventory and changes?)(A) (Amazon CloudWatch)(B) (AWS Config)(C) (AWS Trusted Advisor)(D) (AWS CloudTrail)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Management and Governance service tracks user activity and API usage in the AWS account?)(A) (AWS Config)(B) (AWS Trusted Advisor)(C) (AWS CloudTrail)(D) (Amazon CloudWatch)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(Which Management and Governance service helps users optimize performance and security by providing best practice guidance and recommendations?)(A) (AWS Config)(B) (AWS Trusted Advisor)(C) (AWS CloudTrail)(D) (AWS Well-Architected Tool)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 3 - AWS Global Infrastructure Overview.pdf)(At which level of the AWS Global Infrastructure does a VPC primarily exist?)(A) (Availability Zone level)(B) (Region level)(C) (Edge Location level)(D) (Data Center level)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 Module 4 - AWS Cloud Security.pdf (25 Questions)
-(Module 4 - AWS Cloud Security.pdf) (What model describes security and compliance as a responsibility shared between AWS and the customer?)(A Principle of Least Privilege.)(B Security Governance Framework.)(C AWS Shared Responsibility Model.)(D Zero Trust Model.)(C)
+(Module 4 - AWS Cloud Security.pdf)(What is the concept that dictates security and compliance are a shared responsibility between AWS and the customer?)(A) (Principle of Least Privilege)(B) (AWS Cloud Adoption Framework)(C) (AWS Shared Responsibility Model)(D) (Managed Services Model)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Under the shared responsibility model, what term describes AWS’s responsibility for protecting the global infrastructure that runs all AWS services?)(A Security in the cloud.)(B Security of the cloud.)(C Infrastructure management.)(D Application security.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Under the shared responsibility model, what term describes the customer’s responsibility for managing operating systems, applications, and security group configuration?)(A Security of the cloud.)(B Security at the cloud.)(C Security in the cloud.)(D Physical security.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (For services categorized as IaaS (Infrastructure as a Service), where does the customer bear the responsibility for tasks like managing the guest operating system and applying security patches?)(A Only the data encryption.)(B Only the network infrastructure.)(C The majority of security configuration and management tasks.)(D None, AWS manages all aspects.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which service model features AWS operating the infrastructure layer, OS, and platforms, while the customer is responsible for managing their data and applying appropriate permissions?)(A IaaS.)(B PaaS.)(C SaaS.)(D XaaS.)(B)
+(Module 4 - AWS Cloud Security.pdf)(In the Shared Responsibility Model, AWS is responsible for security "of" the cloud. What specifically does this responsibility cover?)(A) (Securing applications and IAM configuration)(B) (Protecting the infrastructure that runs AWS services)(C) (Managing the guest operating system)(D) (Encrypting customer data in transit)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which service model provides centrally hosted software, typically accessible via a web browser or API, where the customer does not manage the supporting infrastructure?)(A IaaS.)(B PaaS.)(C SaaS.)(D Daas.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which SaaS-categorized service analyzes your AWS environment and provides real-time guidance and recommendations for following AWS best practices?)(A AWS CloudTrail.)(B AWS Shield.)(C AWS Trusted Advisor.)(D AWS Config.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which managed service provides Distributed Denial of Service (DDoS) protection that safeguards applications running on AWS?)(A AWS WAF.)(B AWS Shield.)(C AWS KMS.)(D AWS IAM.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What IAM component is defined as a person or application that is defined in an AWS account and authenticates with security credentials?)(A IAM group.)(B IAM policy.)(C IAM role.)(D IAM user.)(D)
+(Module 4 - AWS Cloud Security.pdf)(In the Shared Responsibility Model, the customer is responsible for security "in" the cloud. Which task falls under the customer's responsibility for an EC2 instance?)(A) (Physical security of the data center)(B) (Maintaining virtualization infrastructure)(C) (Patching and maintenance of the instance operating system)(D) (Instance isolation)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What IAM component is defined as a collection of IAM users used to simplify specifying and managing permissions for multiple users?)(A IAM policy.)(B IAM group.)(C IAM role.)(D IAM entity.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What JSON document defines permissions, determining what users can do in the AWS account, typically granting or denying access to specific resources?)(A IAM role.)(B IAM policy.)(C IAM group.)(D IAM credential.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What IAM component is an identity created to have specific permissions, intended to be assumable by a person, application, or service, providing temporary security credentials?)(A IAM user.)(B IAM group.)(C IAM policy.)(D IAM role.)(D)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which type of access requires an IAM user to present an access key ID and a secret access key when making an API call using the AWS CLI or SDK?)(A Console access.)(B Graphical access.)(C Programmatic access.)(D Temporary access.)(C)
+(Module 4 - AWS Cloud Security.pdf)(Regarding customer content, which security management task is the customer responsible for?)(A) (Physical security of hardware)(B) (Intrusion detection on AWS network infrastructure)(C) (Client-side data encryption and data integrity authentication)(D) (Virtualization software patching)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which type of access requires an IAM user to provide the 12-digit account ID/alias, username, and password in the browser login window?)(A Programmatic access.)(B Console access.)(C CLI access.)(D API access.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What security mechanism requires users and systems to provide a unique authentication code in addition to regular sign-in credentials before accessing AWS services?)(A Single Sign-On (SSO).)(B Multi-Factor Authentication (MFA).)(C Identity Validation.)(D Access Key Rotation.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What computer security concept dictates that you should grant only the minimum user privileges needed to perform required tasks?)(A Explicit allow.)(B Implicit deny.)(C Principle of least privilege.)(D Authorization policy.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What type of IAM policy is attached to an IAM user, role, or group, controlling what actions that identity can perform?)(A Resource-based policy.)(B Service control policy (SCP).)(C Identity-based policy.)(D Bucket policy.)(C)
+(Module 4 - AWS Cloud Security.pdf)(For Infrastructure as a Service (IaaS) services like Amazon EC2, who holds the higher degree of responsibility for managing security aspects like the guest operating system and security group configuration?)(A) (AWS, as the infrastructure owner)(B) (The customer)(C) (Both AWS and the customer equally)(D) (Third-party auditors)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What type of IAM policy is a JSON document attached directly to a resource, such as an S3 bucket, specifying who can perform actions on that resource?)(A Identity-based policy.)(B Resource-based policy.)(C Managed policy.)(D Inline policy (Identity).)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What is the initial sign-in identity created upon account creation that has complete unrestricted access to all AWS services and resources?)(A Administrator IAM user.)(B IAM root user.)(C AWS account root user.)(D Default IAM administrator.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which service logs all API requests to resources in your account, enabling operational auditing and tracking user activity?)(A AWS Config.)(B AWS Trusted Advisor.)(C AWS CloudTrail.)(D AWS Artifact.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What feature of AWS Organizations enables you to specify the maximum permissions that member accounts in the organization can have, overriding member account administrators?)(A IAM policies.)(B Consolidated billing.)(C Resource-based policies.)(D Service control policies (SCPs).)(D)
+(Module 4 - AWS Cloud Security.pdf)(For Platform as a Service (PaaS) services like Amazon RDS, which entity is responsible for handling basic security tasks such as operating system and database patching?)(A) (The customer)(B) (AWS)(C) (Third-party application provider)(D) (The IAM user)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which service enables you to create and manage encryption keys and control the use of encryption across AWS services, integrating with CloudTrail to log usage?)(A Amazon Cognito.)(B AWS KMS.)(C AWS Shield.)(D AWS Config.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What term refers to data that is physically stored on disk or tape, which AWS supports encrypting using AES-256?)(A Data in motion.)(B Data in transit.)(C Data at rest.)(D Data in cache.)(C)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (What term refers to data that is moving across the network, typically encrypted using Transport Layer Security (TLS) or Secure Sockets Layer (SSL)?)(A Data at rest.)(B Data in transit.)(C Data physical storage.)(D Data in place.)(B)
 
 --------------------------------------------------------------------------------
-(Module 4 - AWS Cloud Security.pdf) (Which service is used to assess, audit, and evaluate the configurations of AWS resources by continuously monitoring and recording configurations?)(A AWS Artifact.)(B AWS CloudTrail.)(C AWS Config.)(D AWS Trusted Advisor.)(C)
+(Module 4 - AWS Cloud Security.pdf)(For Software as a Service (SaaS) offerings, what is the customer not required to manage?)(A) (Data integrity)(B) (Access permissions)(C) (The underlying infrastructure that supports the service)(D) (How to use the software)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(What is defined as a person or application that is defined in an AWS account and must authenticate with a unique set of security credentials to make API calls?)(A) (IAM Group)(B) (IAM Role)(C) (IAM Policy)(D) (IAM User)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(What is defined as a collection of IAM users used to simplify specifying and managing identical permissions for multiple users?)(A) (IAM Policy)(B) (Organizational Unit (OU))(C) (IAM Group)(D) (IAM Role)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(What is the document, typically in JSON format, that defines permissions to determine what users can do in the AWS account?)(A) (Service Control Policy (SCP))(B) (IAM Role)(C) (IAM Policy)(D) (AWS Artifact)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(What is the IAM identity intended to be assumable by a person, application, or service, providing temporary security credentials for a session?)(A) (IAM User)(B) (IAM Group)(C) (IAM Policy)(D) (IAM Role)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(By default, what is the implicit stance of AWS IAM regarding permissions for users to access resources in an AWS account?)(A) (Explicitly Allowed)(B) (Explicitly Denied)(C) (Implicitly Denied)(D) (Requires MFA)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which security best practice promotes granting only the minimal user privileges needed to perform required tasks?)(A) (Shared Responsibility Model)(B) (Principle of Least Privilege)(C) (Multi-Factor Authentication (MFA))(D) (Resource-Based Policy)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which type of IAM policy is a JSON policy document attached directly to a resource, controlling what a specified principal can perform on that resource?)(A) (Identity-based policy)(B) (Managed policy)(C) (Resource-based policy)(D) (Inline policy (general))(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(In IAM policy evaluation, what statement always takes precedence over an allow statement?)(A) (Implicit Deny)(B) (Explicit Allow)(C) (Explicit Deny)(D) (Resource-Based Allow)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(What is the strong recommendation from AWS regarding the use of the account root user credentials?)(A) (Use them for all administrative tasks)(B) (Share them securely among IT staff)(C) (Do not use them for day-to-day interactions)(D) (Use them for changing account contact information)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(What purpose does Multi-Factor Authentication (MFA) serve for logins to AWS services?)(A) (Replacing the password entirely)(B) (Providing increased security by requiring a unique authentication code)(C) (Automating API calls)(D) (Managing application roles)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which AWS service tracks user activity on your account and logs all API requests to resources in all supported services?)(A) (Amazon CloudWatch)(B) (AWS Config)(C) (AWS CloudTrail)(D) (AWS Trusted Advisor)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Within AWS Organizations, what feature enables centralized control over the maximum available permissions that member accounts can have, ensuring compliance with guidelines?)(A) (IAM Roles)(B) (Organizational Units (OUs))(C) (Consolidated Billing)(D) (Service Control Policies (SCPs))(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which secure and resilient service enables users to create and manage encryption keys and control the use of encryption across AWS services?)(A) (AWS Shield)(B) (AWS Key Management Service (AWS KMS))(C) (Amazon Cognito)(D) (AWS Artifact)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which Federal Information Processing Standards (FIPS) validation is used to protect keys stored in AWS KMS Hardware Security Modules (HSMs)?)(A) (FIPS 140-2)(B) (FIPS 100-1)(C) (FIPS 256-4)(D) (FIPS 500-1)(A)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which service scales to millions of users and adds user sign-up, sign-in, and access control to web and mobile applications, supporting social identity providers?)(A) (AWS KMS)(B) (AWS Shield)(C) (Amazon Cognito)(D) (AWS IAM)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - Cloud Security.pdf)(What term refers to data that is physically stored on disk or on tape, which AWS supports encrypting?)(A) (Data in transit)(B) (Data processing)(C) (Data at rest)(D) (Data governance)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which open standard protocol, formerly called SSL, is used for encryption of data in transit?)(A) (HTTPS)(B) (JSON)(C) (Transport Layer Security (TLS))(D) (SAML 2.0)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 4 - AWS Cloud Security.pdf)(Which service continuously monitors and records AWS resource configurations to help automate the evaluation of recorded configurations against desired configurations?)(A) (AWS CloudTrail)(B) (AWS Artifact)(C) (AWS Config)(D) (AWS Trusted Advisor)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 Module 5 - Networking and Content Delivery.pdf (25 Questions)
-(Module 5 - Networking and Content Delivery.pdf) (What is the numerical label in decimal format that uniquely identifies each client machine in a network?)(A MAC address.)(B Subnet mask.)(C Internet Protocol (IP) address.)(D Router ID.)(C)
+(Module 5 - Networking and Content Delivery.pdf)(What is the unique numerical label in decimal format that identifies each client machine in a network?)(A) (MAC address)(B) (Internet Protocol (IP) address)(C) (CIDR block)(D) (Network identifier)(B)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a 32-bit IP address called?)(A IPv6.)(B CIDR.)(C IPv4.)(D OSI.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a 128-bit IP address that can accommodate more user devices called?)(A IPv4.)(B IPv6.)(C CIDR block.)(D Subnet.)(B)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What common method is used to describe networks using an IP address, a slash, and a number indicating the fixed bits for the network identifier?)(A OSI model.)(B Network Address Translation (NAT).)(C Classless Inter-Domain Routing (CIDR).)(D Virtual Local Area Network (VLAN).)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What conceptual model is used to explain how data travels over a network, consisting of seven layers?)(A TCP/IP model.)(B Amazon VPC model.)(C Open Systems Interconnection (OSI) model.)(D Network topology.)(C)
+(Module 5 - Networking and Content Delivery.pdf)(An IPv4 address consists of how many bits?)(A) (64 bits)(B) (128 bits)(C) (32 bits)(D) (24 bits)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which AWS service enables you to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define?)(A Amazon Route 53.)(B AWS Direct Connect.)(C Amazon Virtual Private Cloud (Amazon VPC).)(D AWS Transit Gateway.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What term describes a range of IP addresses within a VPC that belongs to a single Availability Zone?)(A Router.)(B Route table.)(C Subnet.)(D Internet gateway.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What contains a set of rules (routes) that directs network traffic from your subnet, specifying a destination and a target?)(A Security Group.)(B Network ACL.)(C Route Table.)(D Virtual Gateway.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a static and public IPv4 address that is designed for dynamic cloud computing, which can be allocated and remapped anytime?)(A Private IP address.)(B Elastic IP address.)(C Public IP address.)(D Default IP address.)(B)
+(Module 5 - Networking and Content Delivery.pdf)(An IPv6 address consists of how many bits?)(A) (32 bits)(B) (128 bits)(C) (64 bits)(D) (256 bits)(B)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a virtual network interface that can be attached to or detached from an instance in a VPC, with its attributes following it when reattached?)(A Virtual Private Gateway.)(B Elastic Network Interface (ENI).)(C Primary Network Adapter.)(D Transit Gateway.)(B)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which VPC component is a scalable, redundant, and highly available element that allows communication between instances in your VPC and the internet?)(A NAT Gateway.)(B VPC Endpoint.)(C Internet Gateway (IGW).)(D Virtual Private Gateway.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which service enables instances in a private subnet to connect to the internet or other AWS services, while preventing the internet from initiating a connection with those instances?)(A Internet Gateway.)(B VPC Endpoint.)(C Network Address Translation (NAT) Gateway.)(D VPC Peering.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What VPC feature enables customers to share subnets with other AWS accounts within the same AWS Organizations structure?)(A VPC Peering.)(B AWS Direct Connect.)(C VPC Sharing.)(D AWS Transit Gateway.)(C)
+(Module 5 - Networking and Content Delivery.pdf)(What is the common method used to describe networks, expressed as an IP address followed by a slash and a number indicating fixed routing prefix bits?)(A) (OSI Model)(B) (IPv6 Address)(C) (Classless Inter-Domain Routing (CIDR))(D) (Subnet Mask)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a networking connection between two VPCs that enables you to route traffic between them privately, making instances communicate as if they are in the same network?)(A AWS Direct Connect.)(B AWS Site-to-Site VPN.)(C VPC Peering Connection.)(D AWS Transit Gateway.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which service allows establishing a dedicated, private network connection between your network (data center or office) and AWS?)(A AWS Site-to-Site VPN.)(B Amazon Route 53.)(C AWS Direct Connect (DX).)(D Internet Gateway.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a service that enables customers to connect their VPCs and on-premises networks to a single gateway, using a hub-and-spoke model?)(A VPC Peering.)(B Internet Gateway.)(C AWS Transit Gateway.)(D Elastic Load Balancing.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is a virtual device that enables you to privately connect your VPC to supported AWS services without requiring an internet gateway or NAT device?)(A VPC Peering Connection.)(B VPC Endpoint.)(C Virtual Private Gateway.)(D AWS Direct Connect.)(B)
+(Module 5 - Networking and Content Delivery.pdf)(Which layer of the Open Systems Interconnection (OSI) model is responsible for routing and packet forwarding, involving devices like routers?)(A) (Layer 7: Application)(B) (Layer 4: Transport)(C) (Layer 3: Network)(D) (Layer 2: Data Link)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which firewall option acts at the instance level, is stateful, and supports only allow rules?)(A Network Access Control List (Network ACL).)(B Router Table.)(C Security Group.)(D VPC Firewall.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which firewall option acts at the subnet level, is stateless, and supports both allow and deny rules?)(A Security Group.)(B Network Access Control List (Network ACL).)(C Route Table.)(D Internet Gateway.)(B)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What highly available and scalable cloud DNS web service translates domain names into numeric IP addresses to route end users to internet applications?)(A Amazon CloudFront.)(B Amazon VPC.)(C Amazon Route 53.)(D Elastic Load Balancing.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which Amazon Route 53 routing policy is used for a single resource that performs a given function for your domain, such as a single web server?)(A Latency routing.)(B Weighted round robin routing.)(C Simple routing.)(D Failover routing.)(C)
+(Module 5 - Networking and Content Delivery.pdf)(What service enables you to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define?)(A) (Amazon Route 53)(B) (AWS Direct Connect)(C) (Amazon Virtual Private Cloud (Amazon VPC))(D) (AWS Transit Gateway)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (Which Amazon Route 53 routing policy routes traffic to multiple resources in proportions specified by assigning weights, often used for A/B testing?)(A Simple routing.)(B Latency routing.)(C Weighted round robin routing.)(D Geolocation routing.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What fast Content Delivery Network (CDN) service securely delivers data, videos, applications, and APIs globally with low latency and high transfer speeds?)(A Amazon Route 53.)(B Amazon VPC.)(C Amazon CloudFront.)(D Elastic Load Balancing.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What is the core purpose of a Content Delivery Network (CDN)?)(A To host the original, definitive versions of web objects.)(B To provide secure, private connections between VPCs.)(C To cache copies of commonly requested files closer to users to accelerate content delivery.)(D To manage domain name registration and DNS resolution.)(C)
 
 --------------------------------------------------------------------------------
-(Module 5 - Networking and Content Delivery.pdf) (What AWS service establishes a secure private tunnel from your network or device to the AWS global network?)(A AWS Direct Connect.)(B AWS Transit Gateway.)(C AWS Site-to-Site VPN.)(D Amazon Route 53.)(C)
+(Module 5 - Networking and Content Delivery.pdf)(A VPC belongs to a single AWS Region and can span across what other infrastructure component?)(A) (Multiple Edge Locations)(B) (Multiple Data Centers)(C) (Multiple Availability Zones)(D) (Multiple VPCs)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is defined as a range of IP addresses that divides a VPC and belongs exclusively to a single Availability Zone?)(A) (VPC Peering Connection)(B) (Subnet)(C) (CIDR Block)(D) (Route Table)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is the smallest IPv4 CIDR block size allowed when creating a VPC?)(A) (/16)(B) (/24)(C) (/28)(D) (/32)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(How many IP addresses does AWS reserve within each subnet CIDR block, making them unavailable for customer use?)(A) (2)(B) (4)(C) (5)(D) (10)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is the static and public IPv4 address designed for dynamic cloud computing that can be allocated and remapped anytime to mask the failure of an instance?)(A) (Private IP address)(B) (Elastic Network Interface)(C) (Elastic IP address)(D) (Public IPv6 address)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is the virtual network interface that can be attached to or detached from an instance in a VPC, whose attributes follow when it is reattached to a new instance?)(A) (Elastic IP Address)(B) (Virtual Private Gateway)(C) (Elastic Network Interface)(D) (Customer Gateway)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What contains a set of rules (routes) that you can configure to direct network traffic from your subnet, where each route specifies a destination and a target?)(A) (Network ACL)(B) (Security Group)(C) (Route Table)(D) (Subnet)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is the scalable, redundant VPC component that allows communication between instances in your VPC and the internet, serving as a target in public route tables?)(A) (NAT Gateway)(B) (VPC Endpoint)(C) (Internet Gateway)(D) (AWS Direct Connect)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What enables instances in a private subnet to connect to the internet or other AWS services, while preventing the internet from initiating a connection with those instances?)(A) (Internet Gateway)(B) (NAT Gateway)(C) (VPC Peering Connection)(D) (Elastic Load Balancer)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(Which VPC networking option enables multiple AWS accounts in the same organization to create their application resources into shared, centrally managed VPC subnets?)(A) (VPC Peering)(B) (AWS Transit Gateway)(C) (VPC Sharing)(D) (AWS Site-to-Site VPN)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is the networking connection between two VPCs that enables you to route traffic between them privately as if they are within the same network?)(A) (AWS Direct Connect)(B) (VPC Peering Connection)(C) (AWS Transit Gateway)(D) (Internet Gateway)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(Which AWS service enables establishing a dedicated, private network connection between a customer's network and one of the DX locations?)(A) (AWS Site-to-Site VPN)(B) (VPC Peering)(C) (AWS Transit Gateway)(D) (AWS Direct Connect)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What is the virtual device that enables you to privately connect your VPC to supported AWS services, ensuring traffic does not leave the Amazon network?)(A) (Internet Gateway)(B) (NAT Gateway)(C) (VPC Endpoint)(D) (Virtual Private Gateway)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What service acts as a hub to simplify networking by controlling how traffic is routed among all connected VPCs and remote networks?)(A) (VPC Peering Connection)(B) (Elastic Load Balancing)(C) (AWS Site-to-Site VPN)(D) (AWS Transit Gateway)(D)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(Which virtual firewall controls inbound and outbound traffic at the instance level?)(A) (Network Access Control List (Network ACL))(B) (Route Table)(C) (Security Group)(D) (VPC Endpoint)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What key characteristic defines Security Groups regarding traffic flow state?)(A) (Stateless)(B) (Stateless for inbound traffic only)(C) (Stateful)(D) (Stateful for outbound traffic only)(C)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(Which optional layer of security acts as a firewall for controlling traffic in and out of one or more subnets?)(A) (Security Group)(B) (Network Access Control List (Network ACL))(C) (VPC Peering Connection)(D) (Internet Gateway)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(What key characteristic defines Network ACLs regarding traffic flow state?)(A) (Stateful)(B) (Stateless)(C) (Allows only inbound traffic)(D) (Allows only outbound traffic)(B)
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+(Module 5 - Networking and Content Delivery.pdf)(Which AWS service is defined as a highly available and scalable cloud Domain Name System (DNS) web service that translates names into numeric IP addresses?)(A) (Amazon VPC)(B) (Amazon CloudFront)(C) (Amazon Route 53)(D) (Elastic Load Balancing)(C)
 
 --------------------------------------------------------------------------------
